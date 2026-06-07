@@ -1,15 +1,17 @@
 import Header from '../../../components/Header';
 import AdSlot from '../../../components/AdSlot';
+import PrintButton from '../../../components/PrintButton';
 import { recipes } from '../../../data/recipes';
 import { notFound } from 'next/navigation';
-import { Printer, Share2 } from 'lucide-react';
+import { Share2 } from 'lucide-react';
 
 export function generateStaticParams() {
   return recipes.map((recipe) => ({ slug: recipe.slug }));
 }
 
-export function generateMetadata({ params }) {
-  const recipe = recipes.find((item) => item.slug === params.slug);
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
+  const recipe = recipes.find((item) => item.slug === slug);
   if (!recipe) return {};
   return {
     title: `${recipe.title} | Before the Box`,
@@ -18,12 +20,14 @@ export function generateMetadata({ params }) {
   };
 }
 
-export default function RecipePage({ params }) {
-  const recipe = recipes.find((item) => item.slug === params.slug);
+export default async function RecipePage({ params }) {
+  const { slug } = await params;
+  const recipe = recipes.find((item) => item.slug === slug);
   if (!recipe) notFound();
 
-  const pageUrl = `https://your-domain.com/recipes/${recipe.slug}`;
-  const pinterestUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&description=${encodeURIComponent(recipe.pinterestText)}`;
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://before-the-box.vercel.app';
+  const pageUrl = `${siteUrl}/recipes/${recipe.slug}`;
+  const pinterestUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&description=${encodeURIComponent(recipe.pinterestText || recipe.title)}`;
 
   return (
     <>
@@ -39,8 +43,8 @@ export default function RecipePage({ params }) {
             <span className="pill">Yield: {recipe.yield}</span>
           </div>
           <div className="recipe-tools no-print">
-            <button className="btn" onClick={() => typeof window !== 'undefined' && window.print()}><Printer size={18} /> Print recipe</button>
-            <a className="btn secondary" href={pinterestUrl} target="_blank"><Share2 size={18} /> Share to Pinterest</a>
+            <PrintButton />
+            <a className="btn secondary" href={pinterestUrl} target="_blank" rel="noreferrer"><Share2 size={18} /> Share to Pinterest</a>
           </div>
         </section>
 
@@ -56,10 +60,12 @@ export default function RecipePage({ params }) {
           <ul>{recipe.ingredients.map((item) => <li key={item}>{item}</li>)}</ul>
         </section>
 
-        <section className="recipe-box">
-          <h2>Equipment</h2>
-          <ul>{recipe.equipment.map((item) => <li key={item}>{item}</li>)}</ul>
-        </section>
+        {recipe.equipment.length > 0 && (
+          <section className="recipe-box">
+            <h2>Equipment</h2>
+            <ul>{recipe.equipment.map((item) => <li key={item}>{item}</li>)}</ul>
+          </section>
+        )}
 
         <section className="recipe-box">
           <h2>Instructions</h2>
@@ -73,6 +79,13 @@ export default function RecipePage({ params }) {
           <p>{recipe.storage}</p>
         </section>
 
+        {recipe.costComparison && (
+          <section className="recipe-box">
+            <h2>Cost comparison</h2>
+            <p>{recipe.costComparison}</p>
+          </section>
+        )}
+
         <section className="recipe-box">
           <h2>Ingredient comparison</h2>
           <table className="compare">
@@ -83,7 +96,7 @@ export default function RecipePage({ params }) {
 
         <section className="recipe-box print-card" id="print-card">
           <h2>{recipe.title}</h2>
-          <p><strong>Time:</strong> {recipe.time} · <strong>Yield:</strong> {recipe.yield}</p>
+          <p><strong>Time:</strong> {recipe.time} - <strong>Yield:</strong> {recipe.yield}</p>
           <h3>Ingredients</h3>
           <ul>{recipe.ingredients.map((item) => <li key={item}>{item}</li>)}</ul>
           <h3>Instructions</h3>
@@ -91,7 +104,7 @@ export default function RecipePage({ params }) {
           <p><strong>Storage:</strong> {recipe.storage}</p>
         </section>
       </main>
-      <footer className="footer">© {new Date().getFullYear()} Before the Box</footer>
+      <footer className="footer">Copyright {new Date().getFullYear()} Before the Box</footer>
     </>
   );
 }
