@@ -1,6 +1,7 @@
 import './globals.css';
 
 export const metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://before-the-box.vercel.app'),
   title: 'Before the Box | Make the thing. Skip the label.',
   description: 'Simple from-scratch recipes for pantry staples, kitchen basics, snacks, home goods, and everyday swaps.',
   openGraph: {

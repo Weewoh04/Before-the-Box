@@ -1,31 +1,11 @@
 import Header from '../../components/Header';
 import { ArrowRight } from 'lucide-react';
+import { blogPosts } from '../../data/blog-posts';
 
 export const metadata = {
   title: 'Blog | Before the Box',
   description: 'Simple from-scratch kitchen notes from Before the Box.'
 };
-
-const posts = [
-  {
-    title: 'How to Start Replacing Store-Bought Staples',
-    category: 'Scratch Kitchen',
-    summary: 'A simple way to choose your first swaps without turning your whole kitchen upside down.',
-    href: '/recipes'
-  },
-  {
-    title: 'The Pantry Staples Worth Making First',
-    category: 'Pantry',
-    summary: 'Seasoning blends, baking mixes, and sauces are easy wins when you want fewer labels in the cabinet.',
-    href: '/categories/pantry-staples'
-  },
-  {
-    title: 'Why Small Homemade Swaps Add Up',
-    category: 'Before the Box',
-    summary: 'From butter in a jar to breakfast mixes, small recipes can make everyday food feel simpler again.',
-    href: '/recipes'
-  }
-];
 
 export default function BlogPage() {
   return (
@@ -44,11 +24,12 @@ export default function BlogPage() {
 
         <section className="section blog-index">
           <div className="grid">
-            {posts.map((post) => (
-              <a className="note-card blog-card" href={post.href} key={post.title}>
+            {blogPosts.map((post) => (
+              <a className="note-card blog-card" href={`/blog/${post.slug}`} key={post.slug}>
+                <div className="blog-thumb" aria-hidden="true">{post.category}</div>
                 <div className="kicker">{post.category}</div>
                 <h3>{post.title}</h3>
-                <p>{post.summary}</p>
+                <p>{post.excerpt}</p>
                 <span className="read-link">Read more <ArrowRight size={16} /></span>
               </a>
             ))}
