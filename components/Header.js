@@ -6,6 +6,7 @@ export default function Header() {
         <div className="nav-links">
           <a href="/recipes">Recipes</a>
           <a href="/#categories">Categories</a>
+          <a href="/ingredients">Ingredient Encyclopedia</a>
           <a href="/blog">Blog</a>
         </div>
       </nav>
