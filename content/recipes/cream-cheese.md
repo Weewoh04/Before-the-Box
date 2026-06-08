@@ -1,39 +1,44 @@
 ---
-title: "How to Make Cream Cheese"
+title: "Homemade Cream Cheese"
 slug: "cream-cheese"
 category: "Dairy"
 prepTime: "20 minutes"
-ingredients: ["Whole Milk", "Lemon Juice", "Salt"]
+ingredients: ["Whole milk", "Lemon juice", "Salt"]
 featuredImage: "/images/cream-cheese.jpg"
 pinterestTitle: "Make Cream Cheese at Home"
 ---
 
 ## Why Make It?
 
-Homemade cream cheese is useful when you want a simple spread without extra stabilizers. It works for toast, bagels, dips, frosting, and quick savory spreads.
+Homemade cream cheese is a simple fresh spread made from milk, lemon juice, and salt.
 
 ## Ingredients
 
 - 4 cups whole milk
-- 2 to 3 tablespoons lemon juice or vinegar
-- 1/4 teaspoon salt, or to taste
+- 2 tablespoons lemon juice
+- Pinch salt
 
 ## Instructions
 
-1. Warm the milk in a saucepan until steaming, stirring often.
-2. Add lemon juice or vinegar a little at a time until curds form.
-3. Strain the curds through cheesecloth or a fine mesh strainer.
-4. Blend the drained curds with salt until smooth.
-5. Add a spoonful of whey if needed to loosen the texture.
+1. Heat milk until steaming.
+2. Add lemon juice.
+3. Allow curds to form.
+4. Strain.
+5. Blend with salt until smooth.
 
 ## Storage
 
-Store covered in the refrigerator for up to 5 days.
-
-## Cost Comparison
-
-Homemade cream cheese is usually close in cost to a basic block of cream cheese, but it is helpful when you want a small fresh batch or a shorter ingredient list.
+5-7 days refrigerated.
 
 ## What's In The Box?
 
-Packaged cream cheese may include milk, cream, salt, gums, stabilizers, and preservatives depending on the brand. Homemade cream cheese can be made with milk, acid, and salt.
+Homemade:
+- Whole milk
+- Lemon juice
+- Salt
+
+Store Version:
+- Milk
+- Cream
+- Stabilizers
+- Preservatives

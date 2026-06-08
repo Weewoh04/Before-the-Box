@@ -38,7 +38,7 @@ export default async function RecipePage({ params }) {
           <h1>{recipe.title}</h1>
           <p>{recipe.summary}</p>
           <div className="recipe-meta">
-            <span className="pill">Time: {recipe.time}</span>
+            <span className="pill">Prep time: {recipe.time}</span>
             <span className="pill">Difficulty: {recipe.difficulty}</span>
             <span className="pill">Yield: {recipe.yield}</span>
           </div>
@@ -87,7 +87,7 @@ export default async function RecipePage({ params }) {
         )}
 
         <section className="recipe-box">
-          <h2>Ingredient comparison</h2>
+          <h2>What's In The Box?</h2>
           <table className="compare">
             <thead><tr><th>Homemade</th><th>Typical store-bought version</th></tr></thead>
             <tbody><tr><td>{recipe.homemade}</td><td>{recipe.storeBought}</td></tr></tbody>
@@ -96,7 +96,7 @@ export default async function RecipePage({ params }) {
 
         <section className="recipe-box print-card" id="print-card">
           <h2>{recipe.title}</h2>
-          <p><strong>Time:</strong> {recipe.time} - <strong>Yield:</strong> {recipe.yield}</p>
+          <p><strong>Prep time:</strong> {recipe.time} - <strong>Yield:</strong> {recipe.yield}</p>
           <h3>Ingredients</h3>
           <ul>{recipe.ingredients.map((item) => <li key={item}>{item}</li>)}</ul>
           <h3>Instructions</h3>

@@ -55,27 +55,38 @@ function markdownText(markdown = '') {
   return markdown.replace(/\r?\n+/g, ' ').trim();
 }
 
+function parseBoxComparison(markdown = '') {
+  const homemadeMatch = markdown.match(/Homemade:\s*([\s\S]*?)(?:\r?\n\r?\n[A-Za-z ]+(?:Butter|Version):|$)/);
+  const storeMatch = markdown.match(/(?:Typical Store Butter|Store Version):\s*([\s\S]*)/);
+
+  return {
+    homemade: homemadeMatch ? markdownListToArray(homemadeMatch[1]).join(', ') : 'The ingredients listed in this homemade recipe.',
+    storeBought: storeMatch ? markdownListToArray(storeMatch[1]).join(', ') : markdownText(markdown)
+  };
+}
+
 function recipeFromMarkdown(fileName) {
   const filePath = path.join(recipesDirectory, fileName);
   const source = fs.readFileSync(filePath, 'utf8');
   const { frontMatter, body } = parseFrontMatter(source);
   const sections = parseSections(body);
+  const boxComparison = parseBoxComparison(sections["What's In The Box?"]);
 
   return {
     slug: frontMatter.slug || fileName.replace(/\.md$/, ''),
     title: frontMatter.title || fileName.replace(/-/g, ' ').replace(/\.md$/, ''),
     category: frontMatter.category || 'Recipes',
-    summary: markdownText(sections['Why Make It?']),
+    summary: markdownText(sections['Why Make It?']) || `${frontMatter.title} is a simple homemade swap from Before the Box.`,
     time: frontMatter.prepTime || 'See recipe',
     difficulty: 'Beginner',
     yield: frontMatter.yield || '1 batch',
     ingredients: markdownListToArray(sections.Ingredients),
-    equipment: [],
+    equipment: markdownListToArray(sections.Equipment),
     steps: markdownListToArray(sections.Instructions),
     storage: markdownText(sections.Storage),
     costComparison: markdownText(sections['Cost Comparison']),
-    homemade: 'The ingredients listed in this homemade recipe.',
-    storeBought: markdownText(sections["What's In The Box?"]),
+    homemade: boxComparison.homemade,
+    storeBought: boxComparison.storeBought,
     pinterestText: frontMatter.pinterestTitle || frontMatter.title,
     featuredImage: frontMatter.featuredImage
   };

@@ -2,28 +2,6 @@ import { getMarkdownRecipes } from './markdown-recipes';
 
 const starterRecipes = [
   {
-    slug: 'mason-jar-butter',
-    title: 'Mason Jar Butter',
-    category: 'Kitchen Staples',
-    summary: 'One ingredient, ten minutes, and a jar. This is the easiest from-scratch win.',
-    time: '10 minutes',
-    difficulty: 'Beginner',
-    yield: 'About 1/2 cup',
-    ingredients: ['1 cup cold heavy whipping cream', 'Optional: pinch of salt'],
-    equipment: ['Pint mason jar with lid', 'Fine mesh strainer', 'Bowl', 'Cold water'],
-    steps: [
-      'Pour heavy cream into a clean mason jar, filling it no more than halfway.',
-      'Seal the lid tightly and shake hard until the cream turns to whipped cream, then separates into butter and buttermilk.',
-      'Strain off the buttermilk and save it for biscuits, pancakes, or baking.',
-      'Rinse the butter under very cold water, pressing gently until the water runs mostly clear.',
-      'Add salt if desired, shape, and refrigerate.'
-    ],
-    storage: 'Store covered in the refrigerator for up to 1 week.',
-    homemade: 'Heavy cream, salt if desired.',
-    storeBought: 'Often includes cream, natural flavors, color, or added salt depending on brand.',
-    pinterestText: 'Make butter in a mason jar with 1 ingredient in about 10 minutes.'
-  },
-  {
     slug: 'homemade-taco-seasoning',
     title: 'Homemade Taco Seasoning',
     category: 'Pantry Swaps',
@@ -66,6 +44,7 @@ for (const recipe of [...starterRecipes, ...getMarkdownRecipes()]) {
 export const recipes = [...recipeMap.values()];
 
 export const categories = [
+  { icon: 'Dairy', title: 'Dairy', description: 'Butter, yogurt, cream cheese, sour cream, ricotta, mozzarella, and fresh dairy basics.' },
   { icon: 'Butter', title: 'Kitchen Staples', description: 'Butter, yogurt, broth, mayo, sour cream, and everyday basics.' },
   { icon: 'Bread', title: 'Baking Basics', description: 'Bread, tortillas, biscuits, crackers, pizza dough, and mixes.' },
   { icon: 'Jar', title: 'Pantry Swaps', description: 'Seasonings, sauces, dressings, creamers, and packet replacements.' },

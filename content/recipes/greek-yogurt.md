@@ -1,37 +1,38 @@
 ---
-title: "How to Make Greek Yogurt"
+title: "Homemade Greek Yogurt"
 slug: "greek-yogurt"
 category: "Dairy"
-prepTime: "10 minutes"
-ingredients: ["Plain Yogurt"]
+prepTime: "2-4 hours"
+ingredients: ["Homemade yogurt"]
 featuredImage: "/images/greek-yogurt.jpg"
 pinterestTitle: "Make Greek Yogurt at Home"
 ---
 
 ## Why Make It?
 
-Greek yogurt is just yogurt with some of the whey strained out. Making it at home lets you control the thickness and turn plain yogurt into a creamy base for breakfasts, dips, sauces, and desserts.
+Greek yogurt is yogurt strained until it becomes thicker, creamier, and perfect for breakfast bowls, dips, sauces, and baking.
 
 ## Ingredients
 
-- 4 cups plain yogurt
+- Homemade yogurt
 
 ## Instructions
 
-1. Line a fine mesh strainer with cheesecloth or a clean thin towel.
-2. Set the strainer over a bowl.
-3. Add yogurt, cover, and refrigerate while it strains.
-4. Strain for 2 to 6 hours, depending on how thick you want it.
-5. Transfer the thickened yogurt to a container and save the whey if desired.
+1. Line strainer with cheesecloth.
+2. Pour yogurt into cloth.
+3. Strain 2-4 hours.
+4. Save whey for baking.
 
 ## Storage
 
-Store covered in the refrigerator for up to 1 week.
-
-## Cost Comparison
-
-Homemade Greek yogurt can be cheaper than store-bought tubs if plain yogurt or milk is a good price. The yield is smaller than regular yogurt because some whey drains away.
+7 days refrigerated.
 
 ## What's In The Box?
 
-Store-bought Greek yogurt may include milk, cultures, stabilizers, thickeners, sweeteners, or flavors. Homemade Greek yogurt can be just strained plain yogurt.
+Homemade:
+- Yogurt
+
+Store Version:
+- Yogurt
+- Thickeners
+- Stabilizers
