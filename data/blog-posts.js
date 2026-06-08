@@ -292,6 +292,308 @@ export const blogPosts = [
       "The goal of Before the Box isn't perfection.",
       "It's learning how food was made before it came in a box and discovering that many of those skills are still within reach today."
     ]
+  },
+  {
+    title: '25 Packaged Foods You Can Stop Buying Today',
+    slug: '25-packaged-foods-you-can-stop-buying-today',
+    category: 'Beginner Guides',
+    excerpt: 'Many common grocery items can be made at home with simple ingredients and very little effort.',
+    featuredImage: '/images/blog/25-packaged-foods-you-can-stop-buying-today.jpg',
+    pinterestTitle: '25 Packaged Foods You Can Stop Buying Today',
+    intro: [
+      'One of the easiest ways to simplify your pantry is to stop buying products you can easily make yourself.',
+      "You don't need to do everything.",
+      'Start with one swap.'
+    ],
+    sections: [
+      {
+        id: 'the-easy-swaps',
+        title: 'The Easy Swaps',
+        items: [
+          item('Taco Seasoning', 'taco-seasoning'),
+          item('Ranch Seasoning', 'ranch-seasoning'),
+          item('Brown Sugar', 'brown-sugar'),
+          item('Powdered Sugar', 'powdered-sugar'),
+          item('Hot Cocoa Mix', 'hot-cocoa-mix'),
+          item('Pancake Mix', 'pancake-mix'),
+          item('Waffle Mix', 'waffle-mix'),
+          item('Granola', 'homemade-granola'),
+          item('Granola Bars', 'granola-bars'),
+          item('Applesauce', 'homemade-applesauce')
+        ]
+      },
+      {
+        id: 'the-refrigerator-swaps',
+        title: 'The Refrigerator Swaps',
+        items: [
+          item('Butter', 'butter'),
+          item('Whipped Cream', 'whipped-cream'),
+          item('Yogurt', 'yogurt'),
+          item('Greek Yogurt', 'greek-yogurt'),
+          item('Sour Cream', 'sour-cream'),
+          item('Cream Cheese', 'cream-cheese'),
+          item('Mayonnaise', 'homemade-mayonnaise')
+        ]
+      },
+      {
+        id: 'the-bread-swaps',
+        title: 'The Bread Swaps',
+        items: [
+          item('Sandwich Bread', 'sandwich-bread'),
+          item('Tortillas', 'flour-tortillas'),
+          item('Pizza Dough', 'pizza-dough'),
+          item('Hamburger Buns', 'hamburger-buns')
+        ]
+      },
+      {
+        id: 'the-convenience-food-swaps',
+        title: 'The Convenience Food Swaps',
+        items: [
+          item('Cream of Chicken Soup', 'cream-of-chicken-soup'),
+          item('Marinara Sauce', 'marinara-sauce'),
+          item('Alfredo Sauce', 'alfredo-sauce'),
+          item('Rice Pilaf Mix', 'rice-pilaf-mix')
+        ]
+      }
+    ],
+    outro: [
+      'Start with the foods you already buy most often.',
+      "The goal isn't perfection.",
+      'The goal is progress.'
+    ]
+  },
+  {
+    title: "What's Actually In Ranch Seasoning Packets?",
+    slug: 'whats-actually-in-ranch-seasoning-packets',
+    category: 'Ingredient Deep Dives',
+    excerpt: 'A closer look at the ingredients commonly found in store-bought ranch seasoning packets.',
+    featuredImage: '/images/blog/whats-actually-in-ranch-seasoning-packets.jpg',
+    pinterestTitle: "What's Actually In Ranch Seasoning Packets?",
+    intro: [
+      'Ranch seasoning seems simple.',
+      "After all, it's just herbs and spices, right?",
+      'Not always.',
+      'Many commercial ranch packets contain ingredients designed to improve shelf life, texture, and consistency.'
+    ],
+    sections: [
+      {
+        id: 'common-ingredients',
+        title: 'Common Ingredients',
+        items: ['Maltodextrin', 'Buttermilk powder', 'Salt', 'Onion powder', 'Garlic powder', 'Silicon dioxide', 'Natural flavors', 'Modified food starch'].map((text) => item(text))
+      },
+      {
+        id: 'what-do-these-do',
+        title: 'What Do These Do?',
+        paragraphs: [
+          'Maltodextrin is a processed starch used as a filler and carrier.',
+          'Silicon dioxide is used to prevent clumping.',
+          'Modified food starch helps improve texture and stability.',
+          'Natural flavors is a broad term that may include many flavoring compounds.'
+        ]
+      },
+      {
+        id: 'homemade-alternative',
+        title: 'Homemade Alternative',
+        paragraphs: ['Our Homemade Ranch Seasoning contains:'],
+        items: [
+          item('Dill', 'ranch-seasoning'),
+          item('Parsley', 'ranch-seasoning'),
+          item('Garlic Powder', 'ranch-seasoning'),
+          item('Onion Powder', 'ranch-seasoning'),
+          item('Salt', 'ranch-seasoning'),
+          item('Pepper', 'ranch-seasoning')
+        ]
+      }
+    ],
+    outro: ['Making your own allows you to control every ingredient.']
+  },
+  {
+    title: "What's Actually In Store-Bought Bread?",
+    slug: 'whats-actually-in-store-bought-bread',
+    category: 'Ingredient Deep Dives',
+    excerpt: 'Take a closer look at the ingredients commonly found in commercial sandwich bread.',
+    featuredImage: '/images/blog/whats-actually-in-store-bought-bread.jpg',
+    pinterestTitle: "What's Actually In Store-Bought Bread?",
+    intro: [
+      'Bread has been made for thousands of years.',
+      'Traditionally, it required:'
+    ],
+    sections: [
+      {
+        id: 'traditional-bread',
+        title: 'Traditional Bread',
+        items: ['Flour', 'Water', 'Salt', 'Yeast'].map((text) => item(text)),
+        paragraphs: ['Modern commercial bread often contains much more.']
+      },
+      {
+        id: 'common-additional-ingredients',
+        title: 'Common Additional Ingredients',
+        items: ['Dough conditioners', 'Preservatives', 'Soybean oil', 'Added sugars', 'Emulsifiers'].map((text) => item(text))
+      },
+      {
+        id: 'why-are-they-added',
+        title: 'Why Are They Added?',
+        paragraphs: ['Commercial bread needs:'],
+        items: ['Longer shelf life', 'Softer texture', 'Faster production', 'Consistent results'].map((text) => item(text))
+      },
+      {
+        id: 'homemade-alternative',
+        title: 'Homemade Alternative',
+        paragraphs: ['Our Sandwich Bread recipe contains:'],
+        items: [
+          item('Flour', 'sandwich-bread'),
+          item('Water', 'sandwich-bread'),
+          item('Butter', 'sandwich-bread'),
+          item('Sugar', 'sandwich-bread'),
+          item('Salt', 'sandwich-bread'),
+          item('Yeast', 'sandwich-bread')
+        ]
+      }
+    ],
+    outro: ['Simple ingredients.', 'Simple process.', 'Simple bread.']
+  },
+  {
+    title: 'The Cost of Convenience: Homemade vs Store-Bought',
+    slug: 'cost-of-convenience-homemade-vs-store-bought',
+    category: 'Cost Comparisons',
+    excerpt: 'Does making food from scratch actually save money? Sometimes yes, sometimes no.',
+    featuredImage: '/images/blog/cost-of-convenience-homemade-vs-store-bought.jpg',
+    pinterestTitle: 'The Cost of Convenience: Homemade vs Store-Bought',
+    intro: [
+      'Many people assume homemade always costs less.',
+      'The truth is more nuanced.'
+    ],
+    sections: [
+      {
+        id: 'foods-that-usually-save-money',
+        title: 'Foods That Usually Save Money',
+        items: [
+          item('Bread', 'sandwich-bread'),
+          item('Tortillas', 'flour-tortillas'),
+          item('Granola', 'homemade-granola'),
+          item('Seasoning Mixes', 'taco-seasoning'),
+          item('Applesauce', 'homemade-applesauce')
+        ]
+      },
+      {
+        id: 'foods-that-are-often-similar-in-cost',
+        title: 'Foods That Are Often Similar In Cost',
+        items: [
+          item('Yogurt', 'yogurt'),
+          item('Crackers', 'homemade-crackers'),
+          item('Cheese', 'ricotta-cheese')
+        ]
+      },
+      {
+        id: 'foods-that-may-cost-more',
+        title: 'Foods That May Cost More',
+        items: [
+          item('Specialty Sauces', 'teriyaki-sauce'),
+          item('Small Batch Cheese', 'mozzarella'),
+          item('Some Snack Foods', 'homemade-gummy-bears')
+        ]
+      },
+      {
+        id: 'hidden-benefits',
+        title: 'Hidden Benefits',
+        paragraphs: ['Even when the price is similar, homemade often provides:'],
+        items: ['Ingredient control', 'Less packaging waste', 'Customization', 'Fewer additives'].map((text) => item(text))
+      }
+    ],
+    outro: [
+      'Convenience has value.',
+      'Knowing how to make something yourself has value too.'
+    ]
+  },
+  {
+    title: "Beginner's Guide to Reading Ingredient Labels",
+    slug: 'beginners-guide-to-reading-ingredient-labels',
+    category: 'Beginner Guides',
+    excerpt: "Understanding ingredient labels doesn't have to be overwhelming.",
+    featuredImage: '/images/blog/beginners-guide-to-reading-ingredient-labels.jpg',
+    pinterestTitle: "Beginner's Guide to Reading Ingredient Labels",
+    intro: ['The ingredient list tells the story.'],
+    sections: [
+      {
+        id: 'ingredients-are-listed-by-weight',
+        title: 'Ingredients Are Listed By Weight',
+        paragraphs: [
+          'The first ingredient is present in the largest amount.',
+          'The last ingredient is present in the smallest amount.'
+        ]
+      },
+      {
+        id: 'look-for-short-lists',
+        title: 'Look For Short Lists',
+        paragraphs: [
+          "Shorter isn't always better.",
+          'But simple products often have fewer ingredients.'
+        ]
+      },
+      {
+        id: 'common-things-to-watch-for',
+        title: 'Common Things To Watch For',
+        items: ['Added sugars', 'Artificial colors', 'Artificial flavors', 'Preservatives'].map((text) => item(text))
+      },
+      {
+        id: 'ask-simple-questions',
+        title: 'Ask Simple Questions',
+        paragraphs: [
+          'Could I make this at home?',
+          'Do I recognize most of these ingredients?',
+          'Is there a simpler version available?'
+        ]
+      }
+    ],
+    outro: [
+      'Ingredient labels are information, not a scorecard.',
+      'Use them to make informed choices.'
+    ]
+  },
+  {
+    title: 'How to Stock a From-Scratch Pantry for Under $100',
+    slug: 'stock-a-from-scratch-pantry-under-100',
+    category: 'Beginner Guides',
+    excerpt: 'Build a practical pantry that can make hundreds of recipes without spending a fortune.',
+    featuredImage: '/images/blog/stock-a-from-scratch-pantry-under-100.jpg',
+    pinterestTitle: 'How to Stock a From-Scratch Pantry for Under $100',
+    intro: [
+      "You don't need a perfectly stocked farmhouse pantry.",
+      'You need a smart one.'
+    ],
+    sections: [
+      { id: 'flour', title: 'Flour', paragraphs: ['One of the most versatile ingredients you can buy.'] },
+      { id: 'sugar', title: 'Sugar', paragraphs: ['Used in baking, sauces, and mixes.'] },
+      { id: 'oats', title: 'Oats', paragraphs: ['Breakfasts, granola, bars, and cookies.'] },
+      { id: 'rice', title: 'Rice', paragraphs: ['Affordable and versatile.'] },
+      { id: 'dry-pasta', title: 'Dry Pasta', paragraphs: ['A pantry staple.'] },
+      {
+        id: 'basic-spices',
+        title: 'Basic Spices',
+        paragraphs: ['Start with:'],
+        items: ['Garlic Powder', 'Onion Powder', 'Paprika', 'Chili Powder', 'Oregano', 'Basil', 'Cinnamon', 'Black Pepper'].map((text) => item(text))
+      },
+      {
+        id: 'baking-essentials',
+        title: 'Baking Essentials',
+        items: ['Baking Powder', 'Baking Soda', 'Yeast', 'Cornstarch'].map((text) => item(text))
+      },
+      {
+        id: 'oils',
+        title: 'Oils',
+        items: ['Olive Oil', 'Vegetable Oil'].map((text) => item(text))
+      },
+      {
+        id: 'goal',
+        title: 'Goal',
+        paragraphs: [
+          'Build gradually.',
+          'Use what you buy.',
+          'Learn one recipe at a time.'
+        ]
+      }
+    ],
+    outro: ['A well-stocked pantry creates freedom, flexibility, and confidence in the kitchen.']
   }
 ];
 
