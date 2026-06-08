@@ -1,39 +1,6 @@
 import { getMarkdownRecipes } from './markdown-recipes';
 
-const starterRecipes = [
-  {
-    slug: 'homemade-taco-seasoning',
-    title: 'Homemade Taco Seasoning',
-    category: 'Pantry Swaps',
-    summary: 'A quick packet-free seasoning blend for tacos, chicken, soups, and skillet meals.',
-    time: '5 minutes',
-    difficulty: 'Beginner',
-    yield: 'About 1/2 cup',
-    ingredients: ['2 tbsp chili powder', '1 tbsp cumin', '1 tbsp paprika', '1 tsp garlic powder', '1 tsp onion powder', '1 tsp oregano', '1 tsp salt', '1/2 tsp black pepper'],
-    equipment: ['Small bowl', 'Spoon', 'Spice jar'],
-    steps: ['Mix all spices together.', 'Store in an airtight jar.', 'Use 2 to 3 tablespoons per pound of meat.'],
-    storage: 'Store in a cool, dry pantry for up to 6 months.',
-    homemade: 'Spices and salt only.',
-    storeBought: 'Some packets include anti-caking agents, sugar, starches, or preservatives.',
-    pinterestText: 'Skip the packet and make taco seasoning from pantry spices.'
-  },
-  {
-    slug: 'quick-ranch-mix',
-    title: 'Quick Ranch Mix',
-    category: 'Pantry Swaps',
-    summary: 'A dry ranch mix for dips, dressing, chicken, potatoes, and snack crackers.',
-    time: '5 minutes',
-    difficulty: 'Beginner',
-    yield: 'About 3/4 cup',
-    ingredients: ['1/2 cup dried parsley', '1 tbsp dried dill', '1 tbsp garlic powder', '1 tbsp onion powder', '1 tsp dried chives', '1 tsp salt', '1/2 tsp pepper'],
-    equipment: ['Small bowl', 'Whisk', 'Airtight jar'],
-    steps: ['Whisk everything together.', 'Store in an airtight jar.', 'For dip, stir 1 tablespoon mix into 1/2 cup sour cream or Greek yogurt.'],
-    storage: 'Store in a dry pantry for up to 6 months.',
-    homemade: 'Herbs, spices, and salt.',
-    storeBought: 'Packets may include maltodextrin, MSG, modified food starch, or preservatives.',
-    pinterestText: 'Homemade ranch mix for dips, dressings, and easy dinners.'
-  }
-];
+const starterRecipes = [];
 
 const recipeMap = new Map();
 
@@ -45,6 +12,7 @@ export const recipes = [...recipeMap.values()];
 
 export const categories = [
   { icon: 'Dairy', title: 'Dairy', description: 'Butter, yogurt, cream cheese, sour cream, ricotta, mozzarella, and fresh dairy basics.' },
+  { icon: 'Pantry', title: 'Pantry Staples', description: 'Seasoning blends, baking staples, sugars, flour mixes, and cozy pantry swaps.' },
   { icon: 'Butter', title: 'Kitchen Staples', description: 'Butter, yogurt, broth, mayo, sour cream, and everyday basics.' },
   { icon: 'Bread', title: 'Baking Basics', description: 'Bread, tortillas, biscuits, crackers, pizza dough, and mixes.' },
   { icon: 'Jar', title: 'Pantry Swaps', description: 'Seasonings, sauces, dressings, creamers, and packet replacements.' },
