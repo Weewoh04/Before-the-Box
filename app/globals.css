@@ -154,22 +154,16 @@ h1 {
   color: var(--muted);
   margin: 22px 0;
 }
-.newsletter {
-  background: var(--ink);
-  color: white;
-  border-radius: 34px;
-  padding: 42px;
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 24px;
+.blog-index { padding-top: 0; }
+.blog-card { min-height: 260px; display: flex; flex-direction: column; }
+.blog-card h3 { font-size: 1.55rem; margin-bottom: 6px; }
+.read-link {
+  display: inline-flex;
   align-items: center;
-}
-.newsletter p { color: rgba(255,255,255,.72); line-height: 1.7; }
-.newsletter input {
-  border: 0;
-  border-radius: 999px;
-  padding: 14px 16px;
-  min-width: 260px;
+  gap: 8px;
+  color: var(--sage-dark);
+  font-weight: 700;
+  margin-top: auto;
 }
 .footer { padding: 36px 22px; text-align: center; color: var(--muted); }
 .recipe-page { max-width: 860px; margin: 0 auto; padding: 50px 22px; }
@@ -202,7 +196,7 @@ h1 {
 .compare th { background: var(--linen); }
 .print-card { border: 2px solid var(--ink); }
 @media (max-width: 800px) {
-  .hero, .newsletter { grid-template-columns: 1fr; }
+  .hero { grid-template-columns: 1fr; }
   .grid { grid-template-columns: 1fr; }
   .nav-links { display: none; }
 }
