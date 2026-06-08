@@ -13,6 +13,7 @@ export const recipes = [...recipeMap.values()];
 export const categories = [
   { icon: 'Dairy', title: 'Dairy', description: 'Butter, yogurt, cream cheese, sour cream, ricotta, mozzarella, and fresh dairy basics.' },
   { icon: 'Pantry', title: 'Pantry Staples', description: 'Seasoning blends, baking staples, sugars, flour mixes, and cozy pantry swaps.' },
+  { icon: 'Sauce', title: 'Condiments & Sauces', description: 'Mayonnaise, ketchup, dressings, taco sauce, marinara, BBQ sauce, and jarred swaps.' },
   { icon: 'Butter', title: 'Kitchen Staples', description: 'Butter, yogurt, broth, mayo, sour cream, and everyday basics.' },
   { icon: 'Bread', title: 'Baking Basics', description: 'Bread, tortillas, biscuits, crackers, pizza dough, and mixes.' },
   { icon: 'Jar', title: 'Pantry Swaps', description: 'Seasonings, sauces, dressings, creamers, and packet replacements.' },
