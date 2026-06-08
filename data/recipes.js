@@ -24,7 +24,8 @@ export const categories = [
   { icon: 'Breakfast', title: 'Breakfast', description: 'Pancake mix, waffle mix, and simple morning staples made ahead.' },
   { icon: 'Pantry', title: 'Pantry Staples', description: 'Seasoning blends, baking staples, sugars, flour mixes, and cozy pantry swaps.' },
   { icon: 'Sauce', title: 'Condiments & Sauces', description: 'Mayonnaise, ketchup, dressings, taco sauce, marinara, BBQ sauce, and jarred swaps.' },
-  { icon: 'Snack', title: 'Snacks', description: 'Crackers, lunchbox swaps, quick bites, and simple snack staples.' },
+  { icon: 'Kids', title: 'Kids Snacks', description: 'Applesauce, fruit snacks, granola bars, pudding cups, popsicles, and lunchbox swaps.' },
+  { icon: 'Snack', title: 'Snacks', description: 'Crackers, quick bites, and simple snack staples.' },
   { icon: 'Clean', title: 'Home + Cleaning', description: 'Laundry powder, sprays, dish tabs, and practical household recipes.' },
   { icon: 'Care', title: 'Beauty + Body', description: 'Lip balm, tallow balm, sugar scrubs, dry shampoo, and body care.' }
 ].map((category) => ({ ...category, slug: categorySlug(category.title) }));
