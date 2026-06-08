@@ -56,12 +56,27 @@ function markdownText(markdown = '') {
 }
 
 function parseBoxComparison(markdown = '') {
-  const homemadeMatch = markdown.match(/Homemade:\s*([\s\S]*?)(?:\r?\n\r?\n[A-Za-z ]+(?:Butter|Version):|$)/);
-  const storeMatch = markdown.match(/(?:Typical Store Butter|Store Version):\s*([\s\S]*)/);
+  const lines = markdown.split(/\r?\n/);
+  const sections = [];
+  let currentSection = null;
+
+  for (const line of lines) {
+    const heading = line.match(/^([^:]+):\s*$/);
+
+    if (heading) {
+      currentSection = { title: heading[1].trim(), content: [] };
+      sections.push(currentSection);
+    } else if (currentSection) {
+      currentSection.content.push(line);
+    }
+  }
+
+  const homemadeSection = sections.find((section) => section.title.toLowerCase() === 'homemade');
+  const storeSection = sections.find((section) => section.title.toLowerCase() !== 'homemade');
 
   return {
-    homemade: homemadeMatch ? markdownListToArray(homemadeMatch[1]).join(', ') : 'The ingredients listed in this homemade recipe.',
-    storeBought: storeMatch ? markdownListToArray(storeMatch[1]).join(', ') : markdownText(markdown)
+    homemade: homemadeSection ? markdownListToArray(homemadeSection.content.join('\n')).join(', ') : 'The ingredients listed in this homemade recipe.',
+    storeBought: storeSection ? markdownListToArray(storeSection.content.join('\n')).join(', ') : markdownText(markdown)
   };
 }
 
