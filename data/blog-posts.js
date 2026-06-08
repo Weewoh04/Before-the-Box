@@ -594,6 +594,270 @@ export const blogPosts = [
       }
     ],
     outro: ['A well-stocked pantry creates freedom, flexibility, and confidence in the kitchen.']
+  },
+  {
+    title: '50 Pantry Staples You Can Make Yourself',
+    slug: '50-pantry-staples-you-can-make-yourself',
+    category: 'Pantry Guides',
+    excerpt: 'From seasoning blends to sauces and baking mixes, these pantry staples can be made right at home.',
+    featuredImage: '/images/blog/50-pantry-staples-you-can-make-yourself.jpg',
+    pinterestTitle: '50 Pantry Staples You Can Make Yourself',
+    intro: ['One of the biggest surprises when people start cooking from scratch is how many pantry staples are actually easy to make.'],
+    sections: [
+      {
+        id: 'baking-staples',
+        title: 'Baking Staples',
+        items: [
+          item('Self-Rising Flour', 'self-rising-flour'),
+          item('Brown Sugar', 'brown-sugar'),
+          item('Powdered Sugar', 'powdered-sugar'),
+          item('Pancake Mix', 'pancake-mix'),
+          item('Waffle Mix', 'waffle-mix'),
+          item('Cake Mix', 'homemade-cake-mix'),
+          item('Brownie Mix', 'homemade-brownie-mix'),
+          item('Muffin Mix', 'homemade-muffin-mix'),
+          item('Cornbread Mix', 'homemade-cornbread-mix'),
+          item('Pie Crust', 'homemade-pie-crust')
+        ]
+      },
+      {
+        id: 'seasonings',
+        title: 'Seasonings',
+        items: [
+          item('Taco Seasoning', 'taco-seasoning'),
+          item('Ranch Seasoning', 'ranch-seasoning'),
+          item('Cajun Seasoning', 'cajun-seasoning'),
+          item('Fajita Seasoning', 'fajita-seasoning'),
+          item('Chili Seasoning', 'chili-seasoning'),
+          item('Italian Seasoning', 'italian-seasoning'),
+          item('Lemon Pepper', 'lemon-pepper-seasoning'),
+          item('Poultry Seasoning', 'poultry-seasoning'),
+          item('Everything Bagel Seasoning', 'everything-bagel-seasoning'),
+          item('Garlic Herb Blend', 'garlic-herb-seasoning')
+        ]
+      },
+      {
+        id: 'sauces',
+        title: 'Sauces',
+        items: [
+          item('Ketchup', 'homemade-ketchup'),
+          item('BBQ Sauce', 'homemade-bbq-sauce'),
+          item('Honey Mustard', 'honey-mustard'),
+          item('Marinara Sauce', 'marinara-sauce'),
+          item('Alfredo Sauce', 'alfredo-sauce'),
+          item('Teriyaki Sauce', 'teriyaki-sauce'),
+          item('Stir Fry Sauce', 'stir-fry-sauce'),
+          item('Sweet & Sour Sauce', 'sweet-and-sour-sauce')
+        ]
+      },
+      {
+        id: 'snacks',
+        title: 'Snacks',
+        items: [
+          item('Granola', 'homemade-granola'),
+          item('Granola Bars', 'granola-bars'),
+          item('Applesauce', 'homemade-applesauce'),
+          item('Fruit Leather', 'fruit-leather'),
+          item('Peanut Butter', 'homemade-peanut-butter')
+        ]
+      }
+    ],
+    outro: ['Start with one item and build from there.']
+  },
+  {
+    title: 'The Ultimate From-Scratch Kitchen Checklist',
+    slug: 'ultimate-from-scratch-kitchen-checklist',
+    category: 'Beginner Guides',
+    excerpt: 'Everything you need to start building a homemade kitchen one recipe at a time.',
+    featuredImage: '/images/blog/ultimate-from-scratch-kitchen-checklist.jpg',
+    pinterestTitle: 'The Ultimate From-Scratch Kitchen Checklist',
+    intro: [
+      'Starting a from-scratch kitchen can feel overwhelming.',
+      'The secret?',
+      "Don't try to do everything at once."
+    ],
+    sections: [
+      {
+        id: 'beginner-level',
+        title: 'Beginner Level',
+        items: [
+          item('Butter', 'butter'),
+          item('Taco Seasoning', 'taco-seasoning'),
+          item('Ranch Seasoning', 'ranch-seasoning'),
+          item('Brown Sugar', 'brown-sugar'),
+          item('Powdered Sugar', 'powdered-sugar')
+        ]
+      },
+      {
+        id: 'intermediate-level',
+        title: 'Intermediate Level',
+        items: [
+          item('Sandwich Bread', 'sandwich-bread'),
+          item('Tortillas', 'flour-tortillas'),
+          item('Yogurt', 'yogurt'),
+          item('Granola', 'homemade-granola'),
+          item('Mayonnaise', 'homemade-mayonnaise')
+        ]
+      },
+      {
+        id: 'advanced-level',
+        title: 'Advanced Level',
+        items: [
+          item('Mozzarella', 'mozzarella'),
+          item('Sourdough Bread'),
+          item('Marshmallows', 'homemade-marshmallows'),
+          item('Vanilla Extract')
+        ]
+      }
+    ],
+    outro: [
+      "The goal isn't perfection.",
+      "It's confidence."
+    ]
+  },
+  {
+    title: "What Our Great-Grandparents Didn't Buy at the Grocery Store",
+    slug: 'what-our-great-grandparents-didnt-buy',
+    category: 'Lifestyle',
+    excerpt: "Many of the convenience foods we rely on today simply didn't exist a century ago.",
+    featuredImage: '/images/blog/what-our-great-grandparents-didnt-buy.jpg',
+    pinterestTitle: "What Our Great-Grandparents Didn't Buy at the Grocery Store",
+    intro: [
+      "A hundred years ago, many foods we consider normal didn't exist.",
+      'Families routinely made:'
+    ],
+    sections: [
+      {
+        id: 'what-they-made',
+        title: 'What They Made',
+        items: [
+          item('Bread', 'sandwich-bread'),
+          item('Butter', 'butter'),
+          item('Yogurt', 'yogurt'),
+          item('Soup', 'cream-of-chicken-soup'),
+          item('Sauces', 'marinara-sauce'),
+          item('Seasoning Mixes', 'taco-seasoning')
+        ],
+        paragraphs: ["This wasn't because they were trying to be healthier.", "It was because these products weren't available."]
+      },
+      {
+        id: 'the-modern-opportunity',
+        title: 'The Modern Opportunity',
+        paragraphs: [
+          "Today we have something our ancestors didn't:",
+          'Choice.',
+          'You can buy convenience when it helps.',
+          'You can make things yourself when it matters.'
+        ]
+      }
+    ],
+    outro: [
+      "Before the Box isn't about going backwards.",
+      "It's about keeping useful skills alive."
+    ]
+  },
+  {
+    title: "How to Start a Homemade Pantry When You're Busy",
+    slug: 'homemade-pantry-for-busy-people',
+    category: 'Beginner Guides',
+    excerpt: "You don't need hours every day to start making things from scratch.",
+    featuredImage: '/images/blog/homemade-pantry-for-busy-people.jpg',
+    pinterestTitle: "How to Start a Homemade Pantry When You're Busy",
+    intro: [
+      'The biggest myth about homemade food is that it requires endless free time.',
+      "It doesn't."
+    ],
+    sections: [
+      {
+        id: 'start-with-5-minute-swaps',
+        title: 'Start With 5-Minute Swaps',
+        items: [
+          item('Taco Seasoning', 'taco-seasoning'),
+          item('Ranch Seasoning', 'ranch-seasoning'),
+          item('Brown Sugar', 'brown-sugar'),
+          item('Powdered Sugar', 'powdered-sugar'),
+          item('Hot Cocoa Mix', 'hot-cocoa-mix')
+        ]
+      },
+      {
+        id: 'then-move-to-15-minute-recipes',
+        title: 'Then Move To 15-Minute Recipes',
+        items: [
+          item('Butter', 'butter'),
+          item('Granola', 'homemade-granola'),
+          item('Applesauce', 'homemade-applesauce')
+        ]
+      },
+      {
+        id: 'save-the-big-projects-for-weekends',
+        title: 'Save The Big Projects For Weekends',
+        items: [
+          item('Bread', 'sandwich-bread'),
+          item('Yogurt', 'yogurt'),
+          item('Cheese', 'mozzarella')
+        ]
+      }
+    ],
+    outro: ['Consistency beats perfection.']
+  },
+  {
+    title: 'The Best Mason Jar Recipes for Beginners',
+    slug: 'best-mason-jar-recipes-for-beginners',
+    category: 'Beginner Guides',
+    excerpt: 'A mason jar might be the most versatile tool in your kitchen.',
+    featuredImage: '/images/blog/best-mason-jar-recipes-for-beginners.jpg',
+    pinterestTitle: 'The Best Mason Jar Recipes for Beginners',
+    intro: [
+      "If you're starting your from-scratch journey, buy a box of mason jars.",
+      "You'll use them constantly."
+    ],
+    sections: [
+      {
+        id: 'what-you-can-make',
+        title: 'What You Can Make',
+        items: [
+          item('Butter', 'butter'),
+          item('Salad Dressing', 'italian-dressing'),
+          item('Overnight Oats'),
+          item('Ranch Seasoning', 'ranch-seasoning'),
+          item('Taco Seasoning', 'taco-seasoning'),
+          item('Hot Cocoa Mix', 'hot-cocoa-mix'),
+          item('Granola', 'homemade-granola'),
+          item('Yogurt', 'yogurt')
+        ]
+      },
+      {
+        id: 'why-mason-jars-work',
+        title: 'Why Mason Jars Work',
+        items: ['Inexpensive', 'Durable', 'Easy to clean', 'Great for storage'].map((text) => item(text))
+      }
+    ],
+    outro: [
+      'One tool.',
+      'Hundreds of uses.'
+    ]
+  },
+  {
+    title: '10 Things I Wish I Knew Before Making Food From Scratch',
+    slug: 'things-i-wish-i-knew-before-making-food-from-scratch',
+    category: 'Personal Stories',
+    excerpt: 'The lessons that make homemade cooking easier, cheaper, and more enjoyable.',
+    featuredImage: '/images/blog/things-i-wish-i-knew-before-making-food-from-scratch.jpg',
+    pinterestTitle: '10 Things I Wish I Knew Before Making Food From Scratch',
+    intro: [],
+    sections: [
+      { id: 'you-dont-have-to-make-everything', title: "1. You Don't Have To Make Everything", paragraphs: ['Pick the things that matter most to your family.'] },
+      { id: 'convenience-isnt-evil', title: "2. Convenience Isn't Evil", paragraphs: ['Sometimes buying the thing is the right choice.'] },
+      { id: 'bread-isnt-as-hard-as-it-looks', title: "3. Bread Isn't As Hard As It Looks", paragraphs: ['Most bread recipes are surprisingly forgiving.'], items: [item('Try Sandwich Bread', 'sandwich-bread')] },
+      { id: 'homemade-doesnt-mean-perfect', title: "4. Homemade Doesn't Mean Perfect", paragraphs: ['Crooked tortillas still taste amazing.'], items: [item('Try Flour Tortillas', 'flour-tortillas')] },
+      { id: 'mason-jars-solve-most-problems', title: '5. Mason Jars Solve Most Problems', paragraphs: ['Seriously.'] },
+      { id: 'spices-matter-more-than-fancy-equipment', title: '6. Spices Matter More Than Fancy Equipment', paragraphs: ['A stocked spice cabinet is worth its weight in gold.'], items: [item('Try Taco Seasoning', 'taco-seasoning'), item('Try Ranch Seasoning', 'ranch-seasoning')] },
+      { id: 'start-small', title: '7. Start Small', paragraphs: ['Master one recipe at a time.'] },
+      { id: 'mistakes-are-part-of-the-process', title: '8. Mistakes Are Part Of The Process', paragraphs: ['Everyone burns something eventually.'] },
+      { id: 'homemade-gets-easier', title: '9. Homemade Gets Easier', paragraphs: ['The first time is the hardest time.'] },
+      { id: 'the-skill-is-the-real-reward', title: '10. The Skill Is The Real Reward', paragraphs: ['Even if you never make the recipe again, you now know how.'] }
+    ],
+    outro: ["That's something nobody can take away."]
   }
 ];
 
