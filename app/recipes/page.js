@@ -1,5 +1,5 @@
 import Header from '../../components/Header';
-import { recipes } from '../../data/recipes';
+import { categories, recipes } from '../../data/recipes';
 import { Printer, Share2 } from 'lucide-react';
 
 export const metadata = {
@@ -20,6 +20,14 @@ export default function RecipesIndexPage() {
             </div>
             <p>Make the thing. Skip the label. Browse simple from-scratch swaps for everyday staples.</p>
           </div>
+        </section>
+
+        <section className="section category-strip">
+          {categories.map((category) => (
+            <a className="pill" href={`/categories/${category.slug}`} key={category.slug}>
+              {category.title}
+            </a>
+          ))}
         </section>
 
         <section className="section recipe-index">

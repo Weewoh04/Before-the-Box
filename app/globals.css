@@ -176,6 +176,17 @@ h1 {
 .recipe-hero h1 { font-size: clamp(2.8rem, 7vw, 5.5rem); }
 .index-hero h1 { font-size: clamp(3rem, 8vw, 5.8rem); }
 .recipe-index { padding-top: 0; }
+.category-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-top: 0;
+  padding-bottom: 22px;
+}
+.pill.active {
+  background: var(--ink);
+  color: white;
+}
 .recipe-tools { display: flex; gap: 12px; flex-wrap: wrap; margin: 22px 0; }
 .recipe-box {
   background: var(--paper);

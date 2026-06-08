@@ -30,11 +30,11 @@ export default function HomePage() {
           </div>
           <div className="grid">
             {categories.map((cat) => (
-              <article className="category-card" key={cat.title}>
+              <a className="category-card" href={`/categories/${cat.slug}`} key={cat.title}>
                 <span>{cat.icon}</span>
                 <h3>{cat.title}</h3>
                 <p>{cat.description}</p>
-              </article>
+              </a>
             ))}
           </div>
         </section>
@@ -75,7 +75,7 @@ export default function HomePage() {
           </div>
         </section>
       </main>
-      <footer className="footer">&copy; {new Date().getFullYear()} Before the Box - Make the thing. Skip the label.</footer>
+      <footer className="footer">Copyright {new Date().getFullYear()} Before the Box - Make the thing. Skip the label.</footer>
     </>
   );
 }
