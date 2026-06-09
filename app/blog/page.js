@@ -1,5 +1,4 @@
 import Header from '../../components/Header';
-import NativeBanner from '../../components/NativeBanner';
 import { ArrowRight } from 'lucide-react';
 import { blogPosts } from '../../data/blog-posts';
 
@@ -22,8 +21,6 @@ export default function BlogPage() {
             <p>Kitchen notes, from-scratch ideas, and simple ways to make the thing before reaching for the box.</p>
           </div>
         </section>
-
-        <NativeBanner />
 
         <section className="section blog-index">
           <div className="grid">

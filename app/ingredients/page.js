@@ -1,6 +1,5 @@
 import Header from '../../components/Header';
 import IngredientExplorer from '../../components/IngredientExplorer';
-import NativeBanner from '../../components/NativeBanner';
 import { ingredientCategories, ingredients } from '../../data/ingredients';
 
 export const metadata = {
@@ -62,8 +61,6 @@ export default function IngredientsPage() {
             </div>
           </div>
         </section>
-
-        <NativeBanner />
 
         <IngredientExplorer ingredients={ingredients} categories={ingredientCategories} />
       </main>

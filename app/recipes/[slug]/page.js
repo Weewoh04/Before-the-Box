@@ -1,6 +1,5 @@
 import Header from '../../../components/Header';
 import AdSlot from '../../../components/AdSlot';
-import NativeBanner from '../../../components/NativeBanner';
 import PrintButton from '../../../components/PrintButton';
 import { recipes } from '../../../data/recipes';
 import { notFound } from 'next/navigation';
@@ -60,8 +59,6 @@ export default async function RecipePage({ params }) {
           <h2>Ingredients</h2>
           <ul>{recipe.ingredients.map((item) => <li key={item}>{item}</li>)}</ul>
         </section>
-
-        <NativeBanner />
 
         {recipe.equipment.length > 0 && (
           <section className="recipe-box">
