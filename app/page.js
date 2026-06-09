@@ -39,7 +39,7 @@ export default function HomePage() {
           </div>
         </section>
 
-        <section className="section"><AdSlot label="Homepage ad space" /></section>
+        <section className="section"><AdSlot label="Homepage ad space" network /></section>
 
         <section className="section" id="recipes">
           <div className="section-title">
