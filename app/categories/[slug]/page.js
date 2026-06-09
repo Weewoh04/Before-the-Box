@@ -1,4 +1,5 @@
 import Header from '../../../components/Header';
+import NativeBanner from '../../../components/NativeBanner';
 import { categories, getCategoryBySlug, getRecipesByCategory } from '../../../data/recipes';
 import { notFound } from 'next/navigation';
 import { Printer, Share2 } from 'lucide-react';
@@ -46,6 +47,8 @@ export default async function CategoryPage({ params }) {
             </a>
           ))}
         </section>
+
+        <NativeBanner />
 
         <section className="section recipe-index">
           {categoryRecipes.length > 0 ? (

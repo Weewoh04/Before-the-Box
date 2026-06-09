@@ -1,5 +1,6 @@
 import Header from '../components/Header';
 import AdSlot from '../components/AdSlot';
+import NativeBanner from '../components/NativeBanner';
 import { recipes, categories } from '../data/recipes';
 import { ArrowRight, Printer, Share2 } from 'lucide-react';
 
@@ -15,7 +16,7 @@ export default function HomePage() {
             <p>Make the thing. Skip the label. Simple recipes for everyday foods, pantry staples, snacks, and household swaps made with ingredients you actually recognize.</p>
             <div className="actions">
               <a className="btn" href="/recipes">Browse recipes <ArrowRight size={18} /></a>
-              <a className="btn secondary" href="#start">Start here</a>
+              <a className="btn secondary" href="/blog">Read the blog</a>
             </div>
           </div>
           <div className="hero-card">
@@ -39,6 +40,8 @@ export default function HomePage() {
           </div>
         </section>
 
+        <NativeBanner />
+
         <section className="section"><AdSlot label="Homepage ad space" /></section>
 
         <section className="section" id="recipes">
@@ -60,18 +63,6 @@ export default function HomePage() {
                 </div>
               </a>
             ))}
-          </div>
-        </section>
-
-        <section className="section" id="start">
-          <div className="newsletter">
-            <div>
-              <h2>Build your scratch kitchen one swap at a time.</h2>
-              <p>Use this section later for your email list, free printable binder, or "7 days of pantry swaps" opt-in.</p>
-            </div>
-            <form>
-              <input placeholder="Email address" aria-label="Email address" />
-            </form>
           </div>
         </section>
       </main>
