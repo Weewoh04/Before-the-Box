@@ -1,4 +1,5 @@
 import Header from '../components/Header';
+import NativeBanner from '../components/NativeBanner';
 import { recipes, categories } from '../data/recipes';
 import { ArrowRight, Printer, Share2 } from 'lucide-react';
 
@@ -37,6 +38,8 @@ export default function HomePage() {
             ))}
           </div>
         </section>
+
+        <NativeBanner />
 
         <section className="section" id="recipes">
           <div className="section-title">

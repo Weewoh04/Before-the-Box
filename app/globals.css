@@ -154,6 +154,14 @@ h1 {
   color: var(--muted);
   margin: 22px 0;
 }
+.native-banner {
+  max-width: 1180px;
+  margin: 18px auto 26px;
+  padding: 18px 22px;
+  min-height: 110px;
+  display: grid;
+  place-items: center;
+}
 .blog-index { padding-top: 0; }
 .blog-card { min-height: 320px; display: flex; flex-direction: column; }
 .blog-card h3 { font-size: 1.55rem; margin-bottom: 6px; }

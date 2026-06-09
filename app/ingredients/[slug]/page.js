@@ -1,4 +1,5 @@
 import Header from '../../../components/Header';
+import NativeBanner from '../../../components/NativeBanner';
 import { getIngredientBySlug, ingredients } from '../../../data/ingredients';
 import { recipes } from '../../../data/recipes';
 import { notFound } from 'next/navigation';
@@ -87,6 +88,8 @@ export default async function IngredientPage({ params }) {
             <QuickFact label="Homemade Alternatives" value={ingredient.homemadeAlternatives} />
           </dl>
         </section>
+
+        <NativeBanner />
 
         <section className="recipe-box toc no-print">
           <h2>Table of contents</h2>

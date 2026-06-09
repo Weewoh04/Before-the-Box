@@ -1,4 +1,5 @@
 import Header from '../../../components/Header';
+import NativeBanner from '../../../components/NativeBanner';
 import { blogPosts, getBlogPostBySlug } from '../../../data/blog-posts';
 import { notFound } from 'next/navigation';
 import { Share2 } from 'lucide-react';
@@ -63,6 +64,8 @@ export default async function BlogPostPage({ params }) {
             ))}
           </ol>
         </section>
+
+        <NativeBanner />
 
         <article className="recipe-box article-body">
           {post.intro.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}

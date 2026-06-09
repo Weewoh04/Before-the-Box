@@ -1,4 +1,5 @@
 import Header from '../../components/Header';
+import NativeBanner from '../../components/NativeBanner';
 import { categories, recipes } from '../../data/recipes';
 import { Printer, Share2 } from 'lucide-react';
 
@@ -29,6 +30,8 @@ export default function RecipesIndexPage() {
             </a>
           ))}
         </section>
+
+        <NativeBanner />
 
         <section className="section recipe-index">
           <div className="grid">
