@@ -1,3 +1,5 @@
+import NativeBanner from './NativeBanner';
+
 export default function Header() {
   return (
     <header className="site-header">
@@ -10,6 +12,7 @@ export default function Header() {
           <a href="/blog">Blog</a>
         </div>
       </nav>
+      <NativeBanner />
     </header>
   );
 }

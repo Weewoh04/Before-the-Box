@@ -48,7 +48,7 @@ export default async function RecipePage({ params }) {
           </div>
         </section>
 
-        <AdSlot label="Recipe top ad space" network />
+        <AdSlot label="Recipe top ad space" />
 
         <section className="recipe-box">
           <h2>Why make it yourself?</h2>

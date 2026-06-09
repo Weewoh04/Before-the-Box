@@ -154,7 +154,10 @@ h1 {
   color: var(--muted);
   margin: 22px 0;
 }
-.network-ad {
+.native-banner {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 8px 22px 14px;
   min-height: 110px;
   display: grid;
   place-items: center;
