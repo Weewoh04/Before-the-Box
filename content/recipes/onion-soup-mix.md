@@ -4,8 +4,11 @@ slug: "onion-soup-mix"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["Dried minced onion", "Beef bouillon powder", "Onion powder", "Garlic powder", "Celery seed"]
-featuredImage: "/images/onion-soup-mix.jpg"
-pinterestTitle: "Make Onion Soup Mix at Home"
+featuredImage: "/images/recipes/homemade-onion-soup-mix/onion-soup-mix-hero.png"
+pinterestImage: "/images/recipes/homemade-onion-soup-mix/onion-soup-mix-pinterest.png"
+ingredientImage: "/images/recipes/homemade-onion-soup-mix/onion-soup-mix-ingredients.png"
+ogImage: "/images/recipes/homemade-onion-soup-mix/onion-soup-mix-pinterest.png"
+pinterestTitle: "Stop Buying Onion Soup Mix: Make This Pantry Staple at Home"
 ---
 
 ## Why Make It?
