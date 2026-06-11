@@ -4,8 +4,11 @@ slug: "cheese-crackers"
 category: "Kids Snacks"
 prepTime: "20 minutes"
 ingredients: ["Cheddar cheese", "Butter", "Flour", "Salt"]
-featuredImage: "/images/cheese-crackers.jpg"
-pinterestTitle: "Make Cheese Crackers at Home"
+featuredImage: "/images/recipes/homemade-cheese-crackers/cheese-crackers-hero.png"
+pinterestImage: "/images/recipes/homemade-cheese-crackers/cheese-crackers-pinterest.png"
+ingredientImage: "/images/recipes/homemade-cheese-crackers/cheese-crackers-ingredients.png"
+ogImage: "/images/recipes/homemade-cheese-crackers/cheese-crackers-pinterest.png"
+pinterestTitle: "Stop Buying Cheese Crackers: Make This Kid Favorite at Home"
 ---
 
 ## Why Make It?
