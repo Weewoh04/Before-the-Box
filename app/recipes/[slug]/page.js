@@ -1,5 +1,4 @@
 import Header from '../../../components/Header';
-import AdSlot from '../../../components/AdSlot';
 import NativeBanner from '../../../components/NativeBanner';
 import PrintButton from '../../../components/PrintButton';
 import { recipes } from '../../../data/recipes';
@@ -98,8 +97,6 @@ export default async function RecipePage({ params }) {
           <h2>Instructions</h2>
           <ol>{recipe.steps.map((item) => <li key={item}>{item}</li>)}</ol>
         </section>
-
-        <AdSlot label="Recipe middle ad space" />
 
         <section className="recipe-box">
           <h2>Storage</h2>
