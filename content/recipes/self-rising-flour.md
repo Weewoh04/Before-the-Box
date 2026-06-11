@@ -4,8 +4,11 @@ slug: "self-rising-flour"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["All-purpose flour", "Baking powder", "Salt"]
-featuredImage: "/images/self-rising-flour.jpg"
-pinterestTitle: "Make Self-Rising Flour at Home"
+featuredImage: "/images/recipes/homemade-self-rising-flour/self-rising-flour-hero.png"
+pinterestImage: "/images/recipes/homemade-self-rising-flour/self-rising-flour-pinterest.png"
+ingredientImage: "/images/recipes/homemade-self-rising-flour/self-rising-flour-ingredients.png"
+ogImage: "/images/recipes/homemade-self-rising-flour/self-rising-flour-pinterest.png"
+pinterestTitle: "Stop Buying Self-Rising Flour: Make It with 3 Pantry Ingredients"
 ---
 
 ## Why Make It?
