@@ -4,8 +4,11 @@ slug: "fruit-snacks"
 category: "Kids Snacks"
 prepTime: "15 minutes + chill time"
 ingredients: ["Fruit puree", "Honey", "Unflavored gelatin"]
-featuredImage: "/images/fruit-snacks.jpg"
-pinterestTitle: "Make Fruit Snacks at Home"
+featuredImage: "/images/recipes/homemade-fruit-snacks/fruit-snacks-hero.png"
+pinterestImage: "/images/recipes/homemade-fruit-snacks/fruit-snacks-pinterest.png"
+ingredientImage: "/images/recipes/homemade-fruit-snacks/fruit-snacks-ingredients.png"
+ogImage: "/images/recipes/homemade-fruit-snacks/fruit-snacks-pinterest.png"
+pinterestTitle: "Stop Buying Fruit Snacks: Make These with Real Fruit at Home"
 ---
 
 ## Why Make It?
