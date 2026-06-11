@@ -4,8 +4,11 @@ slug: "fruit-leather"
 category: "Kids Snacks"
 prepTime: "15 minutes + drying time"
 ingredients: ["Fruit", "Lemon juice", "Honey"]
-featuredImage: "/images/fruit-leather.jpg"
-pinterestTitle: "Make Fruit Leather at Home"
+featuredImage: "/images/recipes/homemade-fruit-leather/fruit-leather-hero.png"
+pinterestImage: "/images/recipes/homemade-fruit-leather/fruit-leather-pinterest.png"
+ingredientImage: "/images/recipes/homemade-fruit-leather/fruit-leather-ingredients.png"
+ogImage: "/images/recipes/homemade-fruit-leather/fruit-leather-pinterest.png"
+pinterestTitle: "Stop Buying Fruit Roll-Ups: Make Real Fruit Leather at Home"
 ---
 
 ## Why Make It?
