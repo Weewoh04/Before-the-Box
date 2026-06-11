@@ -4,8 +4,11 @@ slug: "homemade-peanut-butter"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["Roasted peanuts", "Salt"]
-featuredImage: "/images/homemade-peanut-butter.jpg"
-pinterestTitle: "Make Peanut Butter at Home"
+featuredImage: "/images/recipes/homemade-peanut-butter/peanut-butter-hero.png"
+pinterestImage: "/images/recipes/homemade-peanut-butter/peanut-butter-pinterest.png"
+ingredientImage: "/images/recipes/homemade-peanut-butter/peanut-butter-ingredients.png"
+ogImage: "/images/recipes/homemade-peanut-butter/peanut-butter-pinterest.png"
+pinterestTitle: "Stop Buying Peanut Butter: Make It at Home"
 ---
 
 ## Why Make It?
