@@ -162,6 +162,13 @@ h1 {
   display: grid;
   place-items: center;
 }
+.recipe-grid-banner {
+  grid-column: 1 / -1;
+}
+.recipe-grid-banner .native-banner {
+  margin: 10px auto 8px;
+  width: 100%;
+}
 .blog-index { padding-top: 0; }
 .blog-card { min-height: 320px; display: flex; flex-direction: column; }
 .blog-card h3 { font-size: 1.55rem; margin-bottom: 6px; }

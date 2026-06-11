@@ -2,6 +2,7 @@ import Header from '../../components/Header';
 import NativeBanner from '../../components/NativeBanner';
 import { categories, recipes } from '../../data/recipes';
 import { Printer, Share2 } from 'lucide-react';
+import { Fragment } from 'react';
 
 export const metadata = {
   title: 'Recipes | Before the Box',
@@ -31,22 +32,27 @@ export default function RecipesIndexPage() {
           ))}
         </section>
 
-        <NativeBanner />
-
         <section className="section recipe-index">
           <div className="grid">
-            {recipes.map((recipe) => (
-              <a className="recipe-card" href={`/recipes/${recipe.slug}`} key={recipe.slug}>
-                <div className="kicker">{recipe.category}</div>
-                <h3>{recipe.title}</h3>
-                <p>{recipe.summary}</p>
-                <div className="recipe-meta">
-                  <span className="pill">{recipe.time}</span>
-                  <span className="pill">{recipe.difficulty}</span>
-                  <span className="pill"><Printer size={13} /> Printable</span>
-                  <span className="pill"><Share2 size={13} /> Pinterest-ready</span>
-                </div>
-              </a>
+            {recipes.map((recipe, index) => (
+              <Fragment key={recipe.slug}>
+                <a className="recipe-card" href={`/recipes/${recipe.slug}`}>
+                  <div className="kicker">{recipe.category}</div>
+                  <h3>{recipe.title}</h3>
+                  <p>{recipe.summary}</p>
+                  <div className="recipe-meta">
+                    <span className="pill">{recipe.time}</span>
+                    <span className="pill">{recipe.difficulty}</span>
+                    <span className="pill"><Printer size={13} /> Printable</span>
+                    <span className="pill"><Share2 size={13} /> Pinterest-ready</span>
+                  </div>
+                </a>
+                {index === 8 && (
+                  <div className="recipe-grid-banner">
+                    <NativeBanner />
+                  </div>
+                )}
+              </Fragment>
             ))}
           </div>
         </section>
