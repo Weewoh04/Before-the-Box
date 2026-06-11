@@ -13,7 +13,7 @@ export async function GET(_request, { params }) {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://before-the-box.vercel.app';
   const svg = createPinterestImageSvg({
     title: recipe.title,
-    imageUrl: absoluteImageUrl(recipe.heroImage, siteUrl)
+    imageUrl: absoluteImageUrl(recipe.featuredImage, siteUrl)
   });
 
   return new Response(svg, {

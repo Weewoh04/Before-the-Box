@@ -4,7 +4,10 @@ slug: "ranch-seasoning"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["Dried parsley", "Dried dill", "Garlic powder", "Onion powder", "Salt", "Black pepper"]
-featuredImage: "/images/ranch-seasoning.jpg"
+featuredImage: "/images/recipes/homemade-ranch-seasoning/homemade-ranch-seasoning-hero.png"
+pinterestImage: "/images/recipes/homemade-ranch-seasoning/homemade-ranch-seasoning-pinterest.png"
+ingredientImage: "/images/recipes/homemade-ranch-seasoning/homemade-ranch-seasoning-ingredients.png"
+ogImage: "/images/recipes/homemade-ranch-seasoning/homemade-ranch-seasoning-pinterest.png"
 pinterestTitle: "Make Ranch Seasoning at Home"
 ---
 

@@ -16,7 +16,7 @@ export async function generateMetadata({ params }) {
   const recipe = recipes.find((item) => item.slug === slug);
   if (!recipe) return {};
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://before-the-box.vercel.app';
-  const ogImageUrl = absoluteImageUrl(recipe.ogGeneratedImage, siteUrl);
+  const ogImageUrl = absoluteImageUrl(recipe.ogImage, siteUrl);
 
   return {
     title: `${recipe.title} | Before the Box`,
@@ -50,7 +50,7 @@ export default async function RecipePage({ params }) {
 
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://before-the-box.vercel.app';
   const pageUrl = `${siteUrl}/recipes/${recipe.slug}`;
-  const pinterestImageUrl = absoluteImageUrl(recipe.pinterestGeneratedImage, siteUrl);
+  const pinterestImageUrl = absoluteImageUrl(recipe.pinterestImage, siteUrl);
   const pinterestUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(pinterestImageUrl)}&description=${encodeURIComponent(recipe.pinterestText || recipe.title)}`;
 
   return (
@@ -61,7 +61,7 @@ export default async function RecipePage({ params }) {
           <div className="kicker">{recipe.category}</div>
           <h1>{recipe.title}</h1>
           <p>{recipe.summary}</p>
-          <img className="recipe-hero-image" src={recipe.heroImage} alt={recipe.imageAlt} />
+          <img className="recipe-hero-image" src={recipe.featuredImage} alt={recipe.imageAlt} />
           <div className="recipe-meta">
             <span className="pill">Prep time: {recipe.time}</span>
             <span className="pill">Difficulty: {recipe.difficulty}</span>
@@ -78,9 +78,10 @@ export default async function RecipePage({ params }) {
           <p>Because small swaps add up. This recipe helps you replace a packaged item with a simple homemade version using fewer ingredients and more control.</p>
         </section>
 
+        <img className="recipe-ingredient-image" src={recipe.ingredientImage} alt={`${recipe.title} ingredients from Before the Box`} />
+
         <section className="recipe-box">
           <h2>Ingredients</h2>
-          <img className="recipe-ingredient-image" src={recipe.ingredientImage} alt={`${recipe.title} ingredients from Before the Box`} />
           <ul>{recipe.ingredients.map((item) => <li key={item}>{item}</li>)}</ul>
         </section>
 

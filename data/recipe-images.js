@@ -4,7 +4,7 @@ import path from 'path';
 export const recipeImageStylePrompt = 'Realistic food photography, overhead view, farmhouse kitchen aesthetic, warm natural window lighting, rustic wooden table, Pinterest style recipe photography, high detail, inviting homemade food, soft shadows, professional food photography, vertical composition.';
 
 export const defaultRecipeImages = {
-  heroImage: '/images/recipes/default-recipe-hero.svg',
+  featuredImage: '/images/recipes/default-recipe-hero.svg',
   pinterestImage: '/images/recipes/default-recipe-pinterest.svg',
   ingredientImage: '/images/recipes/default-recipe-ingredients.svg',
   ogImage: '/images/recipes/default-recipe-og.svg'
@@ -13,7 +13,7 @@ export const defaultRecipeImages = {
 const publicDirectory = path.join(process.cwd(), 'public');
 const imageExtensions = ['jpg', 'jpeg', 'png', 'webp', 'svg'];
 const imageFileNames = {
-  heroImage: 'hero',
+  featuredImage: 'hero',
   pinterestImage: 'pinterest',
   ingredientImage: 'ingredients',
   ogImage: 'og'
@@ -45,6 +45,12 @@ function resolveImagePath(slug, explicitPath, imageKey) {
   return firstExistingRecipeImage(slug, imageKey) || defaultRecipeImages[imageKey];
 }
 
+function resolveOptionalImagePath(explicitPath, fallbackPath) {
+  if (explicitPath && publicPathExists(explicitPath)) return explicitPath;
+
+  return fallbackPath;
+}
+
 export function createRecipeImagePrompt(recipe) {
   const title = recipe.title || 'Homemade pantry recipe';
   const basePrompt = recipe.imagePrompt || `${title} homemade pantry staple, ingredients in glass jars, measuring spoons nearby`;
@@ -67,14 +73,16 @@ export function absoluteImageUrl(imagePath, siteUrl) {
 export function createRecipeImageMetadata(recipe) {
   const slug = recipe.slug;
   const title = recipe.title;
+  const featuredImage = resolveImagePath(slug, recipe.featuredImage || recipe.heroImage, 'featuredImage');
 
   return {
     imagePrompt: createRecipeImagePrompt(recipe),
     imageAlt: createRecipeAltText(title),
-    heroImage: resolveImagePath(slug, recipe.heroImage || recipe.featuredImage, 'heroImage'),
-    pinterestImage: resolveImagePath(slug, recipe.pinterestImage, 'pinterestImage'),
-    ingredientImage: resolveImagePath(slug, recipe.ingredientImage, 'ingredientImage'),
-    ogImage: resolveImagePath(slug, recipe.ogImage, 'ogImage'),
+    featuredImage,
+    heroImage: featuredImage,
+    pinterestImage: resolveOptionalImagePath(recipe.pinterestImage, featuredImage),
+    ingredientImage: resolveOptionalImagePath(recipe.ingredientImage, featuredImage),
+    ogImage: resolveOptionalImagePath(recipe.ogImage, featuredImage),
     pinterestGeneratedImage: `/recipes/${slug}/pinterest-image`,
     ogGeneratedImage: `/recipes/${slug}/og-image`,
     pinterest: {
@@ -100,7 +108,8 @@ export function withRecipeImages(recipe) {
     ...recipe,
     ...imageMetadata,
     images: {
-      hero: imageMetadata.heroImage,
+      featured: imageMetadata.featuredImage,
+      hero: imageMetadata.featuredImage,
       pinterest: imageMetadata.pinterestImage,
       pinterestGenerated: imageMetadata.pinterestGeneratedImage,
       ingredient: imageMetadata.ingredientImage,

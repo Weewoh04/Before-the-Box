@@ -31,7 +31,7 @@ Markdown recipes in `content/recipes` can define image fields in frontmatter:
 title: Homemade Ranch Seasoning
 slug: homemade-ranch-seasoning
 imagePrompt: Homemade ranch seasoning in a glass mason jar, dried herbs visible, measuring spoons nearby, farmhouse kitchen aesthetic
-heroImage: /images/recipes/homemade-ranch-seasoning/hero.jpg
+featuredImage: /images/recipes/homemade-ranch-seasoning/hero.jpg
 pinterestImage: /images/recipes/homemade-ranch-seasoning/pinterest.jpg
 ingredientImage: /images/recipes/homemade-ranch-seasoning/ingredients.jpg
 ogImage: /images/recipes/homemade-ranch-seasoning/og.jpg
@@ -39,6 +39,8 @@ ogImage: /images/recipes/homemade-ranch-seasoning/og.jpg
 ```
 
 If image paths are omitted, the site looks for `/images/recipes/[slug]/hero.jpg`, `/pinterest.jpg`, `/ingredients.jpg`, and `/og.jpg`. The lookup also supports `jpeg`, `png`, `webp`, and `svg`. Missing files fall back to branded defaults in `public/images/recipes`, so recipe pages keep rendering without errors.
+
+`featuredImage` is used as the recipe hero image. If `pinterestImage`, `ingredientImage`, or `ogImage` are missing, they automatically fall back to `featuredImage`.
 
 Recipe prompts automatically receive the Before the Box style suffix from `data/recipe-images.js`. Pinterest images should be `1000x1500`; Open Graph images should be `1200x630`.
 

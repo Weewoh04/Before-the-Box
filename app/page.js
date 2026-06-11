@@ -49,7 +49,7 @@ export default function HomePage() {
           <div className="grid">
             {recipes.slice(0, 6).map((recipe) => (
               <a className="recipe-card" href={`/recipes/${recipe.slug}`} key={recipe.slug}>
-                <img className="recipe-card-image" src={recipe.heroImage} alt={recipe.imageAlt} />
+                <img className="recipe-card-image" src={recipe.featuredImage} alt={recipe.imageAlt} />
                 <div className="kicker">{recipe.category}</div>
                 <h3>{recipe.title}</h3>
                 <p>{recipe.summary}</p>

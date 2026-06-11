@@ -19,6 +19,7 @@ export const recipeImageManifest = recipes.map((recipe) => ({
   title: recipe.title,
   slug: recipe.slug,
   imagePrompt: recipe.imagePrompt,
+  featuredImage: recipe.featuredImage,
   heroImage: recipe.heroImage,
   pinterestImage: recipe.pinterestImage,
   pinterestGeneratedImage: recipe.pinterestGeneratedImage,
