@@ -4,8 +4,12 @@ slug: "apple-pie-spice"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["Cinnamon", "Nutmeg", "Cardamom", "Allspice"]
-featuredImage: "/images/apple-pie-spice.jpg"
-pinterestTitle: "Make Apple Pie Spice at Home"
+image: "/images/recipes/homemade-apple-pie-spice/apple-pie-spice-hero.png"
+featuredImage: "/images/recipes/homemade-apple-pie-spice/apple-pie-spice-hero.png"
+pinterestImage: "/images/recipes/homemade-apple-pie-spice/apple-pie-spice-pinterest.png"
+ingredientImage: "/images/recipes/homemade-apple-pie-spice/apple-pie-spice-ingredients.png"
+ogImage: "/images/recipes/homemade-apple-pie-spice/apple-pie-spice-pinterest.png"
+pinterestTitle: "Stop Buying Apple Pie Spice: Make It at Home in 2 Minutes"
 ---
 
 ## Why Make It?
