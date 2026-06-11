@@ -4,8 +4,11 @@ slug: "powdered-sugar"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["Granulated sugar", "Cornstarch"]
-featuredImage: "/images/powdered-sugar.jpg"
-pinterestTitle: "Make Powdered Sugar at Home"
+featuredImage: "/images/recipes/homemade-powdered-sugar/powdered-sugar-hero.png"
+pinterestImage: "/images/recipes/homemade-powdered-sugar/powdered-sugar-pinterest.png"
+ingredientImage: "/images/recipes/homemade-powdered-sugar/powdered-sugar-ingredients.png"
+ogImage: "/images/recipes/homemade-powdered-sugar/powdered-sugar-pinterest.png"
+pinterestTitle: "Stop Buying Powdered Sugar: Make It in 30 Seconds at Home"
 ---
 
 ## Why Make It?
