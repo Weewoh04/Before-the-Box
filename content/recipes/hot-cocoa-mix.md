@@ -4,8 +4,11 @@ slug: "hot-cocoa-mix"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["Powdered milk", "Cocoa powder", "Powdered sugar", "Salt"]
-featuredImage: "/images/hot-cocoa-mix.jpg"
-pinterestTitle: "Make Hot Cocoa Mix at Home"
+featuredImage: "/images/recipes/homemade-hot-cocoa-mix/hot-cocoa-mix-hero.png"
+pinterestImage: "/images/recipes/homemade-hot-cocoa-mix/hot-cocoa-mix-pinterest.png"
+ingredientImage: "/images/recipes/homemade-hot-cocoa-mix/hot-cocoa-mix-ingredients.png"
+ogImage: "/images/recipes/homemade-hot-cocoa-mix/hot-cocoa-mix-pinterest.png"
+pinterestTitle: "Stop Buying Hot Cocoa Mix: Make a Better Pantry Version at Home"
 ---
 
 ## Why Make It?
