@@ -49,8 +49,6 @@ export default async function RecipePage({ params }) {
           </div>
         </section>
 
-        <AdSlot label="Recipe top ad space" />
-
         <section className="recipe-box">
           <h2>Why make it yourself?</h2>
           <p>Because small swaps add up. This recipe helps you replace a packaged item with a simple homemade version using fewer ingredients and more control.</p>
