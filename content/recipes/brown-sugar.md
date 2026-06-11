@@ -4,8 +4,11 @@ slug: "brown-sugar"
 category: "Pantry Staples"
 prepTime: "2 minutes"
 ingredients: ["Granulated sugar", "Molasses"]
-featuredImage: "/images/brown-sugar.jpg"
-pinterestTitle: "Make Brown Sugar at Home"
+featuredImage: "/images/recipes/homemade-brown-sugar/brown-sugar-hero.png"
+pinterestImage: "/images/recipes/homemade-brown-sugar/brown-sugar-pinterest.png"
+ingredientImage: "/images/recipes/homemade-brown-sugar/brown-sugar-ingredients.png"
+ogImage: "/images/recipes/homemade-brown-sugar/brown-sugar-pinterest.png"
+pinterestTitle: "Stop Buying Brown Sugar: Make It at Home with 2 Ingredients"
 ---
 
 ## Why Make It?
