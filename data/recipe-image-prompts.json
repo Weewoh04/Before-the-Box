@@ -1,0 +1,702 @@
+﻿[
+    {
+        "slug":  "alfredo-sauce",
+        "title":  "Homemade Alfredo Sauce",
+        "heroImagePrompt":  "Homemade Alfredo Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Alfredo Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Alfredo Sauce"
+    },
+    {
+        "slug":  "apple-pie-spice",
+        "title":  "Homemade Apple Pie Spice",
+        "heroImagePrompt":  "Homemade Apple Pie Spice styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Apple Pie Spice arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Apple Pie Spice"
+    },
+    {
+        "slug":  "blackening-seasoning",
+        "title":  "Homemade Blackening Seasoning",
+        "heroImagePrompt":  "Homemade Blackening Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Blackening Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Blackening Seasoning"
+    },
+    {
+        "slug":  "breakfast-burritos",
+        "title":  "Homemade Breakfast Burritos",
+        "heroImagePrompt":  "Homemade Breakfast Burritos styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Breakfast Burritos arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Breakfast Burritos"
+    },
+    {
+        "slug":  "breakfast-sandwiches",
+        "title":  "Homemade Breakfast Sandwiches",
+        "heroImagePrompt":  "Homemade Breakfast Sandwiches styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Breakfast Sandwiches arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Breakfast Sandwiches"
+    },
+    {
+        "slug":  "breakfast-sausage",
+        "title":  "Homemade Breakfast Sausage",
+        "heroImagePrompt":  "Homemade Breakfast Sausage styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Breakfast Sausage arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Breakfast Sausage"
+    },
+    {
+        "slug":  "brown-sugar",
+        "title":  "Homemade Brown Sugar",
+        "heroImagePrompt":  "Homemade Brown Sugar styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Brown Sugar arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Brown Sugar"
+    },
+    {
+        "slug":  "burger-seasoning",
+        "title":  "Homemade Burger Seasoning",
+        "heroImagePrompt":  "Homemade Burger Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Burger Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Burger Seasoning"
+    },
+    {
+        "slug":  "butter",
+        "title":  "How to Make Butter in a Mason Jar",
+        "heroImagePrompt":  "How to Make Butter in a Mason Jar styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for How to Make Butter in a Mason Jar arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "How to Make Butter in a Mason Jar"
+    },
+    {
+        "slug":  "buttermilk",
+        "title":  "Homemade Buttermilk",
+        "heroImagePrompt":  "Homemade Buttermilk styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Buttermilk arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Buttermilk"
+    },
+    {
+        "slug":  "buttermilk-biscuits",
+        "title":  "Buttermilk Biscuits",
+        "heroImagePrompt":  "Buttermilk Biscuits styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Buttermilk Biscuits arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Buttermilk Biscuits"
+    },
+    {
+        "slug":  "cajun-seasoning",
+        "title":  "Homemade Cajun Seasoning",
+        "heroImagePrompt":  "Homemade Cajun Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cajun Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cajun Seasoning"
+    },
+    {
+        "slug":  "candied-pecans",
+        "title":  "Candied Pecans",
+        "heroImagePrompt":  "Candied Pecans styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Candied Pecans arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Candied Pecans"
+    },
+    {
+        "slug":  "caramel-popcorn",
+        "title":  "Homemade Caramel Popcorn",
+        "heroImagePrompt":  "Homemade Caramel Popcorn styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Caramel Popcorn arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Caramel Popcorn"
+    },
+    {
+        "slug":  "caramel-sauce",
+        "title":  "Homemade Caramel Sauce",
+        "heroImagePrompt":  "Homemade Caramel Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Caramel Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Caramel Sauce"
+    },
+    {
+        "slug":  "cereal-clusters",
+        "title":  "Homemade Cereal Clusters",
+        "heroImagePrompt":  "Homemade Cereal Clusters styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cereal Clusters arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cereal Clusters"
+    },
+    {
+        "slug":  "cheese-crackers",
+        "title":  "Homemade Cheese Crackers",
+        "heroImagePrompt":  "Homemade Cheese Crackers styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cheese Crackers arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cheese Crackers"
+    },
+    {
+        "slug":  "chia-pudding",
+        "title":  "Chia Pudding",
+        "heroImagePrompt":  "Chia Pudding styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Chia Pudding arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Chia Pudding"
+    },
+    {
+        "slug":  "chili-seasoning",
+        "title":  "Homemade Chili Seasoning",
+        "heroImagePrompt":  "Homemade Chili Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Chili Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Chili Seasoning"
+    },
+    {
+        "slug":  "chocolate-bark",
+        "title":  "Homemade Chocolate Bark",
+        "heroImagePrompt":  "Homemade Chocolate Bark styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Chocolate Bark arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Chocolate Bark"
+    },
+    {
+        "slug":  "chocolate-syrup",
+        "title":  "Homemade Chocolate Syrup",
+        "heroImagePrompt":  "Homemade Chocolate Syrup styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Chocolate Syrup arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Chocolate Syrup"
+    },
+    {
+        "slug":  "cinnamon-honey-granola",
+        "title":  "Cinnamon Honey Granola",
+        "heroImagePrompt":  "Cinnamon Honey Granola styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Cinnamon Honey Granola arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Cinnamon Honey Granola"
+    },
+    {
+        "slug":  "corn-tortillas",
+        "title":  "Corn Tortillas",
+        "heroImagePrompt":  "Corn Tortillas styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Corn Tortillas arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Corn Tortillas"
+    },
+    {
+        "slug":  "cottage-cheese",
+        "title":  "Homemade Cottage Cheese",
+        "heroImagePrompt":  "Homemade Cottage Cheese styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cottage Cheese arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cottage Cheese"
+    },
+    {
+        "slug":  "cream-cheese",
+        "title":  "Homemade Cream Cheese",
+        "heroImagePrompt":  "Homemade Cream Cheese styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cream Cheese arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cream Cheese"
+    },
+    {
+        "slug":  "cream-of-celery-soup",
+        "title":  "Homemade Cream of Celery Soup",
+        "heroImagePrompt":  "Homemade Cream of Celery Soup styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cream of Celery Soup arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cream of Celery Soup"
+    },
+    {
+        "slug":  "cream-of-chicken-soup",
+        "title":  "Homemade Cream of Chicken Soup",
+        "heroImagePrompt":  "Homemade Cream of Chicken Soup styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cream of Chicken Soup arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cream of Chicken Soup"
+    },
+    {
+        "slug":  "cream-of-mushroom-soup",
+        "title":  "Homemade Cream of Mushroom Soup",
+        "heroImagePrompt":  "Homemade Cream of Mushroom Soup styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cream of Mushroom Soup arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cream of Mushroom Soup"
+    },
+    {
+        "slug":  "enchilada-sauce",
+        "title":  "Homemade Enchilada Sauce",
+        "heroImagePrompt":  "Homemade Enchilada Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Enchilada Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Enchilada Sauce"
+    },
+    {
+        "slug":  "energy-bites",
+        "title":  "Energy Bites",
+        "heroImagePrompt":  "Energy Bites styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Energy Bites arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Energy Bites"
+    },
+    {
+        "slug":  "everything-bagel-seasoning",
+        "title":  "Homemade Everything Bagel Seasoning",
+        "heroImagePrompt":  "Homemade Everything Bagel Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Everything Bagel Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Everything Bagel Seasoning"
+    },
+    {
+        "slug":  "fajita-seasoning",
+        "title":  "Homemade Fajita Seasoning",
+        "heroImagePrompt":  "Homemade Fajita Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Fajita Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Fajita Seasoning"
+    },
+    {
+        "slug":  "flour-tortillas",
+        "title":  "Flour Tortillas",
+        "heroImagePrompt":  "Flour Tortillas styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Flour Tortillas arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Flour Tortillas"
+    },
+    {
+        "slug":  "french-dressing",
+        "title":  "Homemade French Dressing",
+        "heroImagePrompt":  "Homemade French Dressing styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade French Dressing arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade French Dressing"
+    },
+    {
+        "slug":  "fruit-dip",
+        "title":  "Homemade Fruit Dip",
+        "heroImagePrompt":  "Homemade Fruit Dip styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Fruit Dip arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Fruit Dip"
+    },
+    {
+        "slug":  "fruit-leather",
+        "title":  "Homemade Fruit Leather",
+        "heroImagePrompt":  "Homemade Fruit Leather styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Fruit Leather arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Fruit Leather"
+    },
+    {
+        "slug":  "fruit-snacks",
+        "title":  "Homemade Fruit Snacks",
+        "heroImagePrompt":  "Homemade Fruit Snacks styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Fruit Snacks arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Fruit Snacks"
+    },
+    {
+        "slug":  "garlic-herb-seasoning",
+        "title":  "Homemade Garlic Herb Seasoning",
+        "heroImagePrompt":  "Homemade Garlic Herb Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Garlic Herb Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Garlic Herb Seasoning"
+    },
+    {
+        "slug":  "goldfish-crackers",
+        "title":  "Homemade Goldfish Crackers",
+        "heroImagePrompt":  "Homemade Goldfish Crackers styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Goldfish Crackers arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Goldfish Crackers"
+    },
+    {
+        "slug":  "graham-crackers",
+        "title":  "Homemade Graham Crackers",
+        "heroImagePrompt":  "Homemade Graham Crackers styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Graham Crackers arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Graham Crackers"
+    },
+    {
+        "slug":  "granola-bars",
+        "title":  "Homemade Granola Bars",
+        "heroImagePrompt":  "Homemade Granola Bars styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Granola Bars arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Granola Bars"
+    },
+    {
+        "slug":  "greek-yogurt",
+        "title":  "Homemade Greek Yogurt",
+        "heroImagePrompt":  "Homemade Greek Yogurt styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Greek Yogurt arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Greek Yogurt"
+    },
+    {
+        "slug":  "hamburger-buns",
+        "title":  "Homemade Hamburger Buns",
+        "heroImagePrompt":  "Homemade Hamburger Buns styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Hamburger Buns arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Hamburger Buns"
+    },
+    {
+        "slug":  "hamburger-helper-mix",
+        "title":  "Homemade Hamburger Helper Mix",
+        "heroImagePrompt":  "Homemade Hamburger Helper Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Hamburger Helper Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Hamburger Helper Mix"
+    },
+    {
+        "slug":  "homemade-applesauce",
+        "title":  "Homemade Applesauce",
+        "heroImagePrompt":  "Homemade Applesauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Applesauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Applesauce"
+    },
+    {
+        "slug":  "homemade-bbq-sauce",
+        "title":  "Homemade BBQ Sauce",
+        "heroImagePrompt":  "Homemade BBQ Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade BBQ Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade BBQ Sauce"
+    },
+    {
+        "slug":  "homemade-brownie-mix",
+        "title":  "Homemade Brownie Mix",
+        "heroImagePrompt":  "Homemade Brownie Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Brownie Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Brownie Mix"
+    },
+    {
+        "slug":  "homemade-cake-mix",
+        "title":  "Homemade Cake Mix",
+        "heroImagePrompt":  "Homemade Cake Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cake Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cake Mix"
+    },
+    {
+        "slug":  "homemade-cookie-dough",
+        "title":  "Homemade Cookie Dough",
+        "heroImagePrompt":  "Homemade Cookie Dough styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cookie Dough arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cookie Dough"
+    },
+    {
+        "slug":  "homemade-cornbread-mix",
+        "title":  "Homemade Cornbread Mix",
+        "heroImagePrompt":  "Homemade Cornbread Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Cornbread Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Cornbread Mix"
+    },
+    {
+        "slug":  "homemade-crackers",
+        "title":  "Homemade Crackers",
+        "heroImagePrompt":  "Homemade Crackers styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Crackers arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Crackers"
+    },
+    {
+        "slug":  "homemade-granola",
+        "title":  "Homemade Granola",
+        "heroImagePrompt":  "Homemade Granola styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Granola arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Granola"
+    },
+    {
+        "slug":  "homemade-gummy-bears",
+        "title":  "Homemade Gummy Bears",
+        "heroImagePrompt":  "Homemade Gummy Bears styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Gummy Bears arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Gummy Bears"
+    },
+    {
+        "slug":  "homemade-hash-browns",
+        "title":  "Homemade Hash Browns",
+        "heroImagePrompt":  "Homemade Hash Browns styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Hash Browns arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Hash Browns"
+    },
+    {
+        "slug":  "homemade-ketchup",
+        "title":  "Homemade Ketchup",
+        "heroImagePrompt":  "Homemade Ketchup styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Ketchup arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Ketchup"
+    },
+    {
+        "slug":  "homemade-marshmallows",
+        "title":  "Homemade Marshmallows",
+        "heroImagePrompt":  "Homemade Marshmallows styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Marshmallows arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Marshmallows"
+    },
+    {
+        "slug":  "homemade-mayonnaise",
+        "title":  "Homemade Mayonnaise",
+        "heroImagePrompt":  "Homemade Mayonnaise styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Mayonnaise arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Mayonnaise"
+    },
+    {
+        "slug":  "homemade-muffin-mix",
+        "title":  "Homemade Muffin Mix",
+        "heroImagePrompt":  "Homemade Muffin Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Muffin Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Muffin Mix"
+    },
+    {
+        "slug":  "homemade-peanut-butter",
+        "title":  "Homemade Peanut Butter",
+        "heroImagePrompt":  "Homemade Peanut Butter styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Peanut Butter arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Peanut Butter"
+    },
+    {
+        "slug":  "homemade-pie-crust",
+        "title":  "Homemade Pie Crust",
+        "heroImagePrompt":  "Homemade Pie Crust styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Pie Crust arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Pie Crust"
+    },
+    {
+        "slug":  "homemade-popsicles",
+        "title":  "Homemade Popsicles",
+        "heroImagePrompt":  "Homemade Popsicles styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Popsicles arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Popsicles"
+    },
+    {
+        "slug":  "homemade-trail-mix",
+        "title":  "Homemade Trail Mix",
+        "heroImagePrompt":  "Homemade Trail Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Trail Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Trail Mix"
+    },
+    {
+        "slug":  "honey-mustard",
+        "title":  "Homemade Honey Mustard",
+        "heroImagePrompt":  "Homemade Honey Mustard styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Honey Mustard arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Honey Mustard"
+    },
+    {
+        "slug":  "hot-cocoa-mix",
+        "title":  "Homemade Hot Cocoa Mix",
+        "heroImagePrompt":  "Homemade Hot Cocoa Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Hot Cocoa Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Hot Cocoa Mix"
+    },
+    {
+        "slug":  "hot-dog-buns",
+        "title":  "Homemade Hot Dog Buns",
+        "heroImagePrompt":  "Homemade Hot Dog Buns styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Hot Dog Buns arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Hot Dog Buns"
+    },
+    {
+        "slug":  "instant-oatmeal-packets",
+        "title":  "Instant Oatmeal Packets",
+        "heroImagePrompt":  "Instant Oatmeal Packets styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Instant Oatmeal Packets arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Instant Oatmeal Packets"
+    },
+    {
+        "slug":  "italian-dressing",
+        "title":  "Homemade Italian Dressing",
+        "heroImagePrompt":  "Homemade Italian Dressing styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Italian Dressing arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Italian Dressing"
+    },
+    {
+        "slug":  "italian-seasoning",
+        "title":  "Homemade Italian Seasoning",
+        "heroImagePrompt":  "Homemade Italian Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Italian Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Italian Seasoning"
+    },
+    {
+        "slug":  "lemon-pepper-seasoning",
+        "title":  "Homemade Lemon Pepper Seasoning",
+        "heroImagePrompt":  "Homemade Lemon Pepper Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Lemon Pepper Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Lemon Pepper Seasoning"
+    },
+    {
+        "slug":  "marinara-sauce",
+        "title":  "Homemade Marinara Sauce",
+        "heroImagePrompt":  "Homemade Marinara Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Marinara Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Marinara Sauce"
+    },
+    {
+        "slug":  "marshmallow-fluff",
+        "title":  "Homemade Marshmallow Fluff",
+        "heroImagePrompt":  "Homemade Marshmallow Fluff styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Marshmallow Fluff arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Marshmallow Fluff"
+    },
+    {
+        "slug":  "mozzarella",
+        "title":  "Homemade Mozzarella",
+        "heroImagePrompt":  "Homemade Mozzarella styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Mozzarella arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Mozzarella"
+    },
+    {
+        "slug":  "onion-soup-mix",
+        "title":  "Homemade Onion Soup Mix",
+        "heroImagePrompt":  "Homemade Onion Soup Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Onion Soup Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Onion Soup Mix"
+    },
+    {
+        "slug":  "pancake-mix",
+        "title":  "Homemade Pancake Mix",
+        "heroImagePrompt":  "Homemade Pancake Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Pancake Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Pancake Mix"
+    },
+    {
+        "slug":  "pancake-syrup",
+        "title":  "Homemade Pancake Syrup",
+        "heroImagePrompt":  "Homemade Pancake Syrup styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Pancake Syrup arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Pancake Syrup"
+    },
+    {
+        "slug":  "pizza-dough",
+        "title":  "Homemade Pizza Dough",
+        "heroImagePrompt":  "Homemade Pizza Dough styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Pizza Dough arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Pizza Dough"
+    },
+    {
+        "slug":  "poultry-seasoning",
+        "title":  "Homemade Poultry Seasoning",
+        "heroImagePrompt":  "Homemade Poultry Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Poultry Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Poultry Seasoning"
+    },
+    {
+        "slug":  "powdered-sugar",
+        "title":  "Homemade Powdered Sugar",
+        "heroImagePrompt":  "Homemade Powdered Sugar styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Powdered Sugar arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Powdered Sugar"
+    },
+    {
+        "slug":  "pudding-cups",
+        "title":  "Homemade Pudding Cups",
+        "heroImagePrompt":  "Homemade Pudding Cups styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Pudding Cups arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Pudding Cups"
+    },
+    {
+        "slug":  "pumpkin-pie-spice",
+        "title":  "Homemade Pumpkin Pie Spice",
+        "heroImagePrompt":  "Homemade Pumpkin Pie Spice styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Pumpkin Pie Spice arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Pumpkin Pie Spice"
+    },
+    {
+        "slug":  "ranch-seasoning",
+        "title":  "Homemade Ranch Seasoning",
+        "heroImagePrompt":  "Homemade Ranch Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Ranch Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Ranch Seasoning"
+    },
+    {
+        "slug":  "rice-crispy-treats",
+        "title":  "Homemade Rice Crispy Treats",
+        "heroImagePrompt":  "Homemade Rice Crispy Treats styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Rice Crispy Treats arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Rice Crispy Treats"
+    },
+    {
+        "slug":  "rice-pilaf-mix",
+        "title":  "Homemade Rice Pilaf Mix",
+        "heroImagePrompt":  "Homemade Rice Pilaf Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Rice Pilaf Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Rice Pilaf Mix"
+    },
+    {
+        "slug":  "ricotta-cheese",
+        "title":  "Homemade Ricotta Cheese",
+        "heroImagePrompt":  "Homemade Ricotta Cheese styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Ricotta Cheese arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Ricotta Cheese"
+    },
+    {
+        "slug":  "sandwich-bread",
+        "title":  "Sandwich Bread From Scratch",
+        "heroImagePrompt":  "Sandwich Bread From Scratch styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Sandwich Bread From Scratch arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Sandwich Bread From Scratch"
+    },
+    {
+        "slug":  "self-rising-flour",
+        "title":  "Homemade Self-Rising Flour",
+        "heroImagePrompt":  "Homemade Self-Rising Flour styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Self-Rising Flour arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Self-Rising Flour"
+    },
+    {
+        "slug":  "sour-cream",
+        "title":  "Homemade Sour Cream",
+        "heroImagePrompt":  "Homemade Sour Cream styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Sour Cream arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Sour Cream"
+    },
+    {
+        "slug":  "stir-fry-sauce",
+        "title":  "Homemade Stir Fry Sauce",
+        "heroImagePrompt":  "Homemade Stir Fry Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Stir Fry Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Stir Fry Sauce"
+    },
+    {
+        "slug":  "stuffing-mix",
+        "title":  "Homemade Stove Top Stuffing Mix",
+        "heroImagePrompt":  "Homemade Stove Top Stuffing Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Stove Top Stuffing Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Stove Top Stuffing Mix"
+    },
+    {
+        "slug":  "sweet-and-sour-sauce",
+        "title":  "Homemade Sweet and Sour Sauce",
+        "heroImagePrompt":  "Homemade Sweet and Sour Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Sweet and Sour Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Sweet and Sour Sauce"
+    },
+    {
+        "slug":  "taco-ranch-seasoning",
+        "title":  "Homemade Taco Ranch Seasoning",
+        "heroImagePrompt":  "Homemade Taco Ranch Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Taco Ranch Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Taco Ranch Seasoning"
+    },
+    {
+        "slug":  "taco-sauce",
+        "title":  "Homemade Taco Sauce",
+        "heroImagePrompt":  "Homemade Taco Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Taco Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Taco Sauce"
+    },
+    {
+        "slug":  "taco-seasoning",
+        "title":  "Homemade Taco Seasoning",
+        "heroImagePrompt":  "Homemade Taco Seasoning styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Taco Seasoning arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Taco Seasoning"
+    },
+    {
+        "slug":  "teriyaki-sauce",
+        "title":  "Homemade Teriyaki Sauce",
+        "heroImagePrompt":  "Homemade Teriyaki Sauce styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Teriyaki Sauce arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Teriyaki Sauce"
+    },
+    {
+        "slug":  "thousand-island-dressing",
+        "title":  "Homemade Thousand Island Dressing",
+        "heroImagePrompt":  "Homemade Thousand Island Dressing styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Thousand Island Dressing arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Thousand Island Dressing"
+    },
+    {
+        "slug":  "vanilla-frosting",
+        "title":  "Homemade Vanilla Frosting",
+        "heroImagePrompt":  "Homemade Vanilla Frosting styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Vanilla Frosting arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Vanilla Frosting"
+    },
+    {
+        "slug":  "waffle-mix",
+        "title":  "Homemade Waffle Mix",
+        "heroImagePrompt":  "Homemade Waffle Mix styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Waffle Mix arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Waffle Mix"
+    },
+    {
+        "slug":  "whipped-cream",
+        "title":  "Homemade Whipped Cream",
+        "heroImagePrompt":  "Homemade Whipped Cream styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Whipped Cream arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Whipped Cream"
+    },
+    {
+        "slug":  "yogurt",
+        "title":  "Homemade Yogurt",
+        "heroImagePrompt":  "Homemade Yogurt styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Homemade Yogurt arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Homemade Yogurt"
+    },
+    {
+        "slug":  "yogurt-bites",
+        "title":  "Frozen Yogurt Bites",
+        "heroImagePrompt":  "Frozen Yogurt Bites styled as a finished homemade recipe, served simply in jars, bowls, baking pans, or pantry containers as appropriate, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "ingredientFlatLayPrompt":  "Ingredients for Frozen Yogurt Bites arranged as an overhead flat-lay with measuring spoons, small bowls, jars, pantry staples, rustic wood surface, warm natural window lighting, realistic food photography, homemade ingredients, cozy kitchen atmosphere, farmhouse pantry aesthetic, Pinterest style composition, no restaurant plating, no dark moody photography, no artificial colors.",
+        "pinterestTitleText":  "Frozen Yogurt Bites"
+    }
+]

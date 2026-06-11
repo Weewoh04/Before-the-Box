@@ -3,6 +3,7 @@ import AdSlot from '../../../components/AdSlot';
 import NativeBanner from '../../../components/NativeBanner';
 import PrintButton from '../../../components/PrintButton';
 import { recipes } from '../../../data/recipes';
+import { absoluteImageUrl } from '../../../data/recipe-images';
 import { notFound } from 'next/navigation';
 import { Share2 } from 'lucide-react';
 
@@ -14,10 +15,31 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const recipe = recipes.find((item) => item.slug === slug);
   if (!recipe) return {};
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://before-the-box.vercel.app';
+  const ogImageUrl = absoluteImageUrl(recipe.ogGeneratedImage, siteUrl);
+
   return {
     title: `${recipe.title} | Before the Box`,
     description: recipe.summary,
-    openGraph: { title: recipe.title, description: recipe.summary, type: 'article' }
+    openGraph: {
+      title: recipe.title,
+      description: recipe.summary,
+      type: 'article',
+      images: [
+        {
+          url: ogImageUrl,
+          width: recipe.imageMetadata.openGraph.width,
+          height: recipe.imageMetadata.openGraph.height,
+          alt: recipe.imageAlt
+        }
+      ]
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: recipe.title,
+      description: recipe.summary,
+      images: [ogImageUrl]
+    }
   };
 }
 
@@ -28,7 +50,8 @@ export default async function RecipePage({ params }) {
 
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://before-the-box.vercel.app';
   const pageUrl = `${siteUrl}/recipes/${recipe.slug}`;
-  const pinterestUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&description=${encodeURIComponent(recipe.pinterestText || recipe.title)}`;
+  const pinterestImageUrl = absoluteImageUrl(recipe.pinterestGeneratedImage, siteUrl);
+  const pinterestUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(pinterestImageUrl)}&description=${encodeURIComponent(recipe.pinterestText || recipe.title)}`;
 
   return (
     <>
@@ -38,6 +61,7 @@ export default async function RecipePage({ params }) {
           <div className="kicker">{recipe.category}</div>
           <h1>{recipe.title}</h1>
           <p>{recipe.summary}</p>
+          <img className="recipe-hero-image" src={recipe.heroImage} alt={recipe.imageAlt} />
           <div className="recipe-meta">
             <span className="pill">Prep time: {recipe.time}</span>
             <span className="pill">Difficulty: {recipe.difficulty}</span>
@@ -56,6 +80,7 @@ export default async function RecipePage({ params }) {
 
         <section className="recipe-box">
           <h2>Ingredients</h2>
+          <img className="recipe-ingredient-image" src={recipe.ingredientImage} alt={`${recipe.title} ingredients from Before the Box`} />
           <ul>{recipe.ingredients.map((item) => <li key={item}>{item}</li>)}</ul>
         </section>
 

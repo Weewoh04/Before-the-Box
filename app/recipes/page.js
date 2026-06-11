@@ -37,6 +37,7 @@ export default function RecipesIndexPage() {
             {recipes.map((recipe, index) => (
               <Fragment key={recipe.slug}>
                 <a className="recipe-card" href={`/recipes/${recipe.slug}`}>
+                  <img className="recipe-card-image" src={recipe.heroImage} alt={recipe.imageAlt} />
                   <div className="kicker">{recipe.category}</div>
                   <h3>{recipe.title}</h3>
                   <p>{recipe.summary}</p>

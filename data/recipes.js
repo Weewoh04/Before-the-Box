@@ -1,14 +1,32 @@
 import { getMarkdownRecipes } from './markdown-recipes';
+import { withRecipeImages } from './recipe-images';
 
 const starterRecipes = [];
 
 const recipeMap = new Map();
 
 for (const recipe of [...starterRecipes, ...getMarkdownRecipes()]) {
-  recipeMap.set(recipe.slug, recipe);
+  recipeMap.set(recipe.slug, recipe.imageMetadata ? recipe : withRecipeImages(recipe));
 }
 
 export const recipes = [...recipeMap.values()];
+
+export const recipeImagePrompts = Object.fromEntries(
+  recipes.map((recipe) => [recipe.slug, recipe.imagePrompt])
+);
+
+export const recipeImageManifest = recipes.map((recipe) => ({
+  title: recipe.title,
+  slug: recipe.slug,
+  imagePrompt: recipe.imagePrompt,
+  heroImage: recipe.heroImage,
+  pinterestImage: recipe.pinterestImage,
+  pinterestGeneratedImage: recipe.pinterestGeneratedImage,
+  ingredientImage: recipe.ingredientImage,
+  ogImage: recipe.ogImage,
+  ogGeneratedImage: recipe.ogGeneratedImage,
+  alt: recipe.imageAlt
+}));
 
 export function categorySlug(category) {
   return category

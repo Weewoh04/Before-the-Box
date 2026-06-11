@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { withRecipeImages } from './recipe-images';
 
 const recipesDirectory = path.join(process.cwd(), 'content', 'recipes');
 
@@ -87,9 +88,9 @@ function recipeFromMarkdown(fileName) {
   const sections = parseSections(body);
   const boxComparison = parseBoxComparison(sections["What's In The Box?"]);
 
-  return {
-    slug: frontMatter.slug || fileName.replace(/\.md$/, ''),
-    title: frontMatter.title || fileName.replace(/-/g, ' ').replace(/\.md$/, ''),
+  return withRecipeImages({
+    slug: frontMatter.slug || fileName.replace(/\.(md|mdx)$/, ''),
+    title: frontMatter.title || fileName.replace(/-/g, ' ').replace(/\.(md|mdx)$/, ''),
     category: frontMatter.category || 'Recipes',
     summary: markdownText(sections['Why Make It?']) || `${frontMatter.title} is a simple homemade swap from Before the Box.`,
     time: frontMatter.prepTime || 'See recipe',
@@ -103,8 +104,13 @@ function recipeFromMarkdown(fileName) {
     homemade: boxComparison.homemade,
     storeBought: boxComparison.storeBought,
     pinterestText: frontMatter.pinterestTitle || frontMatter.title,
-    featuredImage: frontMatter.featuredImage
-  };
+    featuredImage: frontMatter.featuredImage,
+    imagePrompt: frontMatter.imagePrompt,
+    heroImage: frontMatter.heroImage,
+    pinterestImage: frontMatter.pinterestImage,
+    ingredientImage: frontMatter.ingredientImage,
+    ogImage: frontMatter.ogImage
+  });
 }
 
 export function getMarkdownRecipes() {
@@ -112,7 +118,7 @@ export function getMarkdownRecipes() {
 
   return fs
     .readdirSync(recipesDirectory)
-    .filter((fileName) => fileName.endsWith('.md'))
+    .filter((fileName) => /\.(md|mdx)$/.test(fileName))
     .sort()
     .map(recipeFromMarkdown);
 }
