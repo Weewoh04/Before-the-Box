@@ -4,8 +4,11 @@ slug: "taco-seasoning"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["Chili powder", "Paprika", "Cumin", "Garlic powder", "Onion powder", "Oregano", "Salt", "Black pepper"]
-featuredImage: "/images/taco-seasoning.jpg"
-pinterestTitle: "Make Taco Seasoning at Home"
+featuredImage: "/images/recipes/homemade-taco-seasoning/taco-seasoning-hero.png"
+pinterestImage: "/images/recipes/homemade-taco-seasoning/taco-seasoning-pinterest.png"
+ingredientImage: "/images/recipes/homemade-taco-seasoning/taco-seasoning-ingredients.png"
+ogImage: "/images/recipes/homemade-taco-seasoning/taco-seasoning-pinterest.png"
+pinterestTitle: "Stop Buying Taco Seasoning: Make It with Pantry Spices You Already Have"
 ---
 
 ## Why Make It?
