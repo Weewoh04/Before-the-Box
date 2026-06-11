@@ -4,8 +4,11 @@ slug: "italian-seasoning"
 category: "Pantry Staples"
 prepTime: "5 minutes"
 ingredients: ["Basil", "Oregano", "Rosemary", "Thyme", "Parsley"]
-featuredImage: "/images/italian-seasoning.jpg"
-pinterestTitle: "Make Italian Seasoning at Home"
+featuredImage: "/images/recipes/homemade-italian-seasoning/italian-seasoning-hero.png"
+pinterestImage: "/images/recipes/homemade-italian-seasoning/italian-seasoning-pinterest.png"
+ingredientImage: "/images/recipes/homemade-italian-seasoning/italian-seasoning-ingredients.png"
+ogImage: "/images/recipes/homemade-italian-seasoning/italian-seasoning-pinterest.png"
+pinterestTitle: "Stop Buying Italian Seasoning: Make This Pantry Staple at Home"
 ---
 
 ## Why Make It?
