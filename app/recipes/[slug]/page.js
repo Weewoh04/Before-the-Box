@@ -6,6 +6,32 @@ import { absoluteImageUrl } from '../../../data/recipe-images';
 import { notFound } from 'next/navigation';
 import { Share2 } from 'lucide-react';
 
+function renderInlineRecipeLinks(text) {
+  const parts = [];
+  const linkPattern = /\[([^\]]+)\]\(([^)]+)\)/g;
+  let lastIndex = 0;
+  let match;
+
+  while ((match = linkPattern.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(text.slice(lastIndex, match.index));
+    }
+
+    parts.push(
+      <a href={match[2]} key={`${match[2]}-${match.index}`}>
+        {match[1]}
+      </a>
+    );
+    lastIndex = match.index + match[0].length;
+  }
+
+  if (lastIndex < text.length) {
+    parts.push(text.slice(lastIndex));
+  }
+
+  return parts.length > 0 ? parts : text;
+}
+
 export function generateStaticParams() {
   return recipes.map((recipe) => ({ slug: recipe.slug }));
 }
@@ -81,7 +107,7 @@ export default async function RecipePage({ params }) {
 
         <section className="recipe-box">
           <h2>Ingredients</h2>
-          <ul>{recipe.ingredients.map((item) => <li key={item}>{item}</li>)}</ul>
+          <ul>{recipe.ingredients.map((item) => <li key={item}>{renderInlineRecipeLinks(item)}</li>)}</ul>
         </section>
 
         <NativeBanner />
@@ -122,7 +148,7 @@ export default async function RecipePage({ params }) {
           <h2>{recipe.title}</h2>
           <p><strong>Prep time:</strong> {recipe.time} - <strong>Yield:</strong> {recipe.yield}</p>
           <h3>Ingredients</h3>
-          <ul>{recipe.ingredients.map((item) => <li key={item}>{item}</li>)}</ul>
+          <ul>{recipe.ingredients.map((item) => <li key={item}>{renderInlineRecipeLinks(item)}</li>)}</ul>
           <h3>Instructions</h3>
           <ol>{recipe.steps.map((item) => <li key={item}>{item}</li>)}</ol>
           <p><strong>Storage:</strong> {recipe.storage}</p>

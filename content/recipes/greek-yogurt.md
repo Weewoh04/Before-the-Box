@@ -14,7 +14,7 @@ Greek yogurt is yogurt strained until it becomes thicker, creamier, and perfect 
 
 ## Ingredients
 
-- Homemade yogurt
+- Homemade yogurt ([see recipe here](/recipes/yogurt))
 
 ## Instructions
 
