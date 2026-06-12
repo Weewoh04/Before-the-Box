@@ -4,8 +4,11 @@ slug: "graham-crackers"
 category: "Kids Snacks"
 prepTime: "25 minutes + chill time"
 ingredients: ["Whole wheat flour", "Flour", "Honey", "Butter", "Cinnamon"]
-featuredImage: "/images/graham-crackers.jpg"
-pinterestTitle: "Make Graham Crackers at Home"
+featuredImage: "/images/recipes/homemade-graham-crackers/graham-crackers-hero.png"
+pinterestImage: "/images/recipes/homemade-graham-crackers/graham-crackers-pinterest.png"
+ingredientImage: "/images/recipes/homemade-graham-crackers/graham-crackers-ingredients.png"
+ogImage: "/images/recipes/homemade-graham-crackers/graham-crackers-pinterest.png"
+pinterestTitle: "Stop Buying Graham Crackers: Make This Pantry Favorite at Home"
 ---
 
 ## Why Make It?
