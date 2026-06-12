@@ -4,8 +4,11 @@ slug: "blackening-seasoning"
 category: "Spice Blends"
 prepTime: "5 minutes"
 ingredients: ["Paprika", "Garlic powder", "Onion powder", "Thyme", "Oregano", "Cayenne pepper", "Black pepper"]
-featuredImage: "/images/blackening-seasoning.jpg"
-pinterestTitle: "Make Blackening Seasoning at Home"
+featuredImage: "/images/recipes/homemade-blackening-seasoning/blackening-seasoning-hero.png"
+pinterestImage: "/images/recipes/homemade-blackening-seasoning/blackening-seasoning-pinterest.png"
+ingredientImage: "/images/recipes/homemade-blackening-seasoning/blackening-seasoning-ingredients.png"
+ogImage: "/images/recipes/homemade-blackening-seasoning/blackening-seasoning-pinterest.png"
+pinterestTitle: "Stop Buying Blackening Seasoning: Make This Bold Spice Blend at Home"
 ---
 
 ## Why Make It?
