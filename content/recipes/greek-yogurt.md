@@ -4,8 +4,11 @@ slug: "greek-yogurt"
 category: "Dairy"
 prepTime: "2-4 hours"
 ingredients: ["Homemade yogurt"]
-featuredImage: "/images/greek-yogurt.jpg"
-pinterestTitle: "Make Greek Yogurt at Home"
+featuredImage: "/images/recipes/homemade-greek-yogurt/greek-yogurt-hero.png"
+pinterestImage: "/images/recipes/homemade-greek-yogurt/greek-yogurt-pinterest.png"
+ingredientImage: "/images/recipes/homemade-greek-yogurt/greek-yogurt-ingredients.png"
+ogImage: "/images/recipes/homemade-greek-yogurt/greek-yogurt-pinterest.png"
+pinterestTitle: "Stop Buying Greek Yogurt: Make This High-Protein Staple at Home"
 ---
 
 ## Why Make It?
