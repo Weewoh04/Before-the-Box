@@ -4,8 +4,11 @@ slug: "cream-cheese"
 category: "Dairy"
 prepTime: "20 minutes"
 ingredients: ["Whole milk", "Lemon juice", "Salt"]
-featuredImage: "/images/cream-cheese.jpg"
-pinterestTitle: "Make Cream Cheese at Home"
+featuredImage: "/images/recipes/homemade-cream-cheese/cream-cheese-hero.png"
+pinterestImage: "/images/recipes/homemade-cream-cheese/cream-cheese-pinterest.png"
+ingredientImage: "/images/recipes/homemade-cream-cheese/cream-cheese-ingredients.png"
+ogImage: "/images/recipes/homemade-cream-cheese/cream-cheese-pinterest.png"
+pinterestTitle: "Stop Buying Cream Cheese: Make It at Home with Simple Ingredients"
 ---
 
 ## Why Make It?
