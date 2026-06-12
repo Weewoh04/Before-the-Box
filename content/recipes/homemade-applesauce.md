@@ -4,8 +4,11 @@ slug: "homemade-applesauce"
 category: "Kids Snacks"
 prepTime: "10 minutes + 25 minutes cook time"
 ingredients: ["Apples", "Water", "Cinnamon"]
-featuredImage: "/images/homemade-applesauce.jpg"
-pinterestTitle: "Make Applesauce at Home"
+featuredImage: "/images/recipes/homemade-applesauce/applesauce-hero.png"
+pinterestImage: "/images/recipes/homemade-applesauce/applesauce-pinterest.png"
+ingredientImage: "/images/recipes/homemade-applesauce/applesauce-ingredients.png"
+ogImage: "/images/recipes/homemade-applesauce/applesauce-pinterest.png"
+pinterestTitle: "Stop Buying Applesauce: Make This Kid Favorite with Fresh Apples"
 ---
 
 ## Why Make It?
