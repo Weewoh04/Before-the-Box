@@ -4,8 +4,11 @@ slug: "pudding-cups"
 category: "Kids Snacks"
 prepTime: "15 minutes + chill time"
 ingredients: ["Milk", "Sugar", "Cornstarch", "Vanilla"]
-featuredImage: "/images/pudding-cups.jpg"
-pinterestTitle: "Make Pudding Cups at Home"
+featuredImage: "/images/recipes/homemade-pudding-cups/pudding-cups-hero.png"
+pinterestImage: "/images/recipes/homemade-pudding-cups/pudding-cups-pinterest.png"
+ingredientImage: "/images/recipes/homemade-pudding-cups/pudding-cups-ingredients.png"
+ogImage: "/images/recipes/homemade-pudding-cups/pudding-cups-pinterest.png"
+pinterestTitle: "Stop Buying Pudding Cups: Make This Kid Favorite at Home"
 ---
 
 ## Why Make It?
