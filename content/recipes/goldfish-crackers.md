@@ -4,8 +4,11 @@ slug: "goldfish-crackers"
 category: "Kids Snacks"
 prepTime: "20 minutes"
 ingredients: ["Cheddar cheese", "Butter", "Flour", "Water"]
-featuredImage: "/images/goldfish-crackers.jpg"
-pinterestTitle: "Make Goldfish Crackers at Home"
+featuredImage: "/images/recipes/homemade-goldfish-crackers/goldfish-crackers-hero.png"
+pinterestImage: "/images/recipes/homemade-goldfish-crackers/goldfish-crackers-pinterest.png"
+ingredientImage: "/images/recipes/homemade-goldfish-crackers/goldfish-crackers-ingredients.png"
+ogImage: "/images/recipes/homemade-goldfish-crackers/goldfish-crackers-pinterest.png"
+pinterestTitle: "Stop Buying Goldfish Crackers: Make This Kid Favorite at Home"
 ---
 
 ## Why Make It?
