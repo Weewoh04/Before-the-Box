@@ -4,8 +4,11 @@ slug: "yogurt-bites"
 category: "Kids Snacks"
 prepTime: "10 minutes + freeze time"
 ingredients: ["Greek yogurt", "Honey", "Berries"]
-featuredImage: "/images/yogurt-bites.jpg"
-pinterestTitle: "Make Frozen Yogurt Bites at Home"
+featuredImage: "/images/recipes/homemade-frozen-yogurt-bites/frozen-yogurt-bites-hero.png"
+pinterestImage: "/images/recipes/homemade-frozen-yogurt-bites/frozen-yogurt-bites-pinterest.png"
+ingredientImage: "/images/recipes/homemade-frozen-yogurt-bites/frozen-yogurt-bites-ingredients.png"
+ogImage: "/images/recipes/homemade-frozen-yogurt-bites/frozen-yogurt-bites-pinterest.png"
+pinterestTitle: "Stop Buying Yogurt Melts: Make Frozen Yogurt Bites at Home"
 ---
 
 ## Why Make It?
