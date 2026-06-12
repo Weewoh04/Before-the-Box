@@ -4,8 +4,11 @@ slug: "cottage-cheese"
 category: "Dairy"
 prepTime: "30 minutes"
 ingredients: ["Whole milk", "Vinegar", "Salt"]
-featuredImage: "/images/cottage-cheese.jpg"
-pinterestTitle: "Make Cottage Cheese at Home"
+featuredImage: "/images/recipes/homemade-cottage-cheese/cottage-cheese-hero.png"
+pinterestImage: "/images/recipes/homemade-cottage-cheese/cottage-cheese-pinterest.png"
+ingredientImage: "/images/recipes/homemade-cottage-cheese/cottage-cheese-ingredients.png"
+ogImage: "/images/recipes/homemade-cottage-cheese/cottage-cheese-pinterest.png"
+pinterestTitle: "Stop Buying Cottage Cheese: Make It Fresh at Home"
 ---
 
 ## Why Make It?
