@@ -4,8 +4,11 @@ slug: "alfredo-sauce"
 category: "Sauces"
 prepTime: "15 minutes"
 ingredients: ["Butter", "Heavy cream", "Parmesan cheese", "Garlic"]
-featuredImage: "/images/alfredo-sauce.jpg"
-pinterestTitle: "Make Alfredo Sauce at Home"
+featuredImage: "/images/recipes/homemade-alfredo-sauce/alfredo-sauce-hero.png"
+pinterestImage: "/images/recipes/homemade-alfredo-sauce/alfredo-sauce-pinterest.png"
+ingredientImage: "/images/recipes/homemade-alfredo-sauce/alfredo-sauce-ingredients.png"
+ogImage: "/images/recipes/homemade-alfredo-sauce/alfredo-sauce-pinterest.png"
+pinterestTitle: "Stop Buying Jarred Alfredo Sauce: Make It in 15 Minutes at Home"
 ---
 
 ## Why Make It?
