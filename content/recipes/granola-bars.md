@@ -4,8 +4,11 @@ slug: "granola-bars"
 category: "Kids Snacks"
 prepTime: "10 minutes + chill time"
 ingredients: ["Rolled oats", "Peanut butter", "Honey", "Mini chocolate chips"]
-featuredImage: "/images/granola-bars.jpg"
-pinterestTitle: "Make Granola Bars at Home"
+featuredImage: "/images/recipes/homemade-granola-bars/granola-bars-hero.png"
+pinterestImage: "/images/recipes/homemade-granola-bars/granola-bars-pinterest.png"
+ingredientImage: "/images/recipes/homemade-granola-bars/granola-bars-ingredients.png"
+ogImage: "/images/recipes/homemade-granola-bars/granola-bars-pinterest.png"
+pinterestTitle: "Stop Buying Granola Bars: Make This Lunchbox Favorite at Home"
 ---
 
 ## Why Make It?
