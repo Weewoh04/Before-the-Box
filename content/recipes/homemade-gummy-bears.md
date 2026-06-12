@@ -4,8 +4,11 @@ slug: "homemade-gummy-bears"
 category: "Kids Snacks"
 prepTime: "10 minutes + chill time"
 ingredients: ["Fruit juice", "Honey", "Gelatin"]
-featuredImage: "/images/homemade-gummy-bears.jpg"
-pinterestTitle: "Make Gummy Bears at Home"
+featuredImage: "/images/recipes/homemade-gummy-bears/gummy-bears-hero.png"
+pinterestImage: "/images/recipes/homemade-gummy-bears/gummy-bears-pinterest.png"
+ingredientImage: "/images/recipes/homemade-gummy-bears/gummy-bears-ingredients.png"
+ogImage: "/images/recipes/homemade-gummy-bears/gummy-bears-pinterest.png"
+pinterestTitle: "Stop Buying Gummy Bears: Make Them with Real Fruit Juice at Home"
 ---
 
 ## Why Make It?
