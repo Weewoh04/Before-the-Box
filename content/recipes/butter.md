@@ -4,8 +4,11 @@ slug: "butter"
 category: "Dairy"
 prepTime: "10 minutes"
 ingredients: ["Heavy whipping cream"]
-featuredImage: "/images/butter.jpg"
-pinterestTitle: "Make Butter in a Mason Jar"
+featuredImage: "/images/recipes/how-to-make-butter-in-a-mason-jar/mason-jar-butter-hero.png"
+pinterestImage: "/images/recipes/how-to-make-butter-in-a-mason-jar/mason-jar-butter-pinterest.png"
+ingredientImage: "/images/recipes/how-to-make-butter-in-a-mason-jar/mason-jar-butter-ingredients.png"
+ogImage: "/images/recipes/how-to-make-butter-in-a-mason-jar/mason-jar-butter-pinterest.png"
+pinterestTitle: "Stop Buying Butter: Make Fresh Butter in a Mason Jar"
 ---
 
 ## Why Make It?
