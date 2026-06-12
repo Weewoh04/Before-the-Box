@@ -4,8 +4,11 @@ slug: "buttermilk"
 category: "Dairy"
 prepTime: "5 minutes"
 ingredients: ["Milk", "Lemon juice or vinegar"]
-featuredImage: "/images/buttermilk.jpg"
-pinterestTitle: "Make Buttermilk at Home"
+featuredImage: "/images/recipes/homemade-buttermilk/buttermilk-hero.png"
+pinterestImage: "/images/recipes/homemade-buttermilk/buttermilk-pinterest.png"
+ingredientImage: "/images/recipes/homemade-buttermilk/buttermilk-ingredients.png"
+ogImage: "/images/recipes/homemade-buttermilk/buttermilk-pinterest.png"
+pinterestTitle: "Stop Buying Buttermilk: Make It in 5 Minutes with 2 Ingredients"
 ---
 
 ## Why Make It?
