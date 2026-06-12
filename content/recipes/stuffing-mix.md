@@ -1,7 +1,7 @@
 ---
 title: "Homemade Stove Top Stuffing Mix"
 slug: "stuffing-mix"
-category: "Convenience Foods"
+category: "Pantry Staples"
 prepTime: "10 minutes"
 ingredients: ["Bread cubes", "Parsley", "Onion powder", "Celery seed", "Poultry seasoning"]
 featuredImage: "/images/stuffing-mix.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Homemade Cream of Mushroom Soup"
 slug: "cream-of-mushroom-soup"
-category: "Convenience Foods"
+category: "Pantry Staples"
 prepTime: "15 minutes"
 ingredients: ["Butter", "Mushrooms", "Flour", "Milk", "Broth"]
 featuredImage: "/images/cream-of-mushroom-soup.jpg"

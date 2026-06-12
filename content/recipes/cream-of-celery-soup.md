@@ -1,7 +1,7 @@
 ---
 title: "Homemade Cream of Celery Soup"
 slug: "cream-of-celery-soup"
-category: "Convenience Foods"
+category: "Pantry Staples"
 prepTime: "15 minutes"
 ingredients: ["Celery", "Butter", "Flour", "Milk", "Broth"]
 featuredImage: "/images/cream-of-celery-soup.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Homemade Caramel Sauce"
 slug: "caramel-sauce"
-category: "Desserts"
+category: "Sweet Treats"
 prepTime: "15 minutes"
 ingredients: ["Sugar", "Butter", "Heavy cream"]
 featuredImage: "/images/caramel-sauce.jpg"

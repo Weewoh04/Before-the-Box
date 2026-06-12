@@ -1,7 +1,7 @@
 ---
 title: "Homemade Chocolate Syrup"
 slug: "chocolate-syrup"
-category: "Desserts"
+category: "Sweet Treats"
 prepTime: "10 minutes"
 ingredients: ["Cocoa powder", "Sugar", "Water", "Vanilla"]
 featuredImage: "/images/chocolate-syrup.jpg"

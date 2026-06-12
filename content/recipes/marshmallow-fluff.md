@@ -1,7 +1,7 @@
 ---
 title: "Homemade Marshmallow Fluff"
 slug: "marshmallow-fluff"
-category: "Desserts"
+category: "Sweet Treats"
 prepTime: "15 minutes"
 ingredients: ["Egg whites", "Sugar", "Water", "Vanilla"]
 featuredImage: "/images/marshmallow-fluff.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Homemade Cream of Chicken Soup"
 slug: "cream-of-chicken-soup"
-category: "Convenience Foods"
+category: "Pantry Staples"
 prepTime: "15 minutes"
 ingredients: ["Butter", "Flour", "Chicken broth", "Milk", "Garlic powder"]
 featuredImage: "/images/cream-of-chicken-soup.jpg"

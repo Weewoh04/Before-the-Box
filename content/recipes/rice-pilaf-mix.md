@@ -1,7 +1,7 @@
 ---
 title: "Homemade Rice Pilaf Mix"
 slug: "rice-pilaf-mix"
-category: "Convenience Foods"
+category: "Pantry Staples"
 prepTime: "10 minutes"
 ingredients: ["Long grain rice", "Broken spaghetti", "Chicken bouillon", "Onion powder"]
 featuredImage: "/images/rice-pilaf-mix.jpg"

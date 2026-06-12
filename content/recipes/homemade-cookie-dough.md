@@ -1,7 +1,7 @@
 ---
 title: "Homemade Cookie Dough"
 slug: "homemade-cookie-dough"
-category: "Desserts"
+category: "Sweet Treats"
 prepTime: "10 minutes"
 ingredients: ["Butter", "Brown sugar", "Egg", "Flour", "Chocolate chips"]
 featuredImage: "/images/homemade-cookie-dough.jpg"

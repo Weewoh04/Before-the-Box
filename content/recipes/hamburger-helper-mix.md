@@ -1,7 +1,7 @@
 ---
 title: "Homemade Hamburger Helper Mix"
 slug: "hamburger-helper-mix"
-category: "Convenience Foods"
+category: "Pantry Staples"
 prepTime: "10 minutes"
 ingredients: ["Elbow macaroni", "Cornstarch", "Dried milk powder", "Paprika", "Garlic powder", "Onion powder"]
 featuredImage: "/images/hamburger-helper-mix.jpg"

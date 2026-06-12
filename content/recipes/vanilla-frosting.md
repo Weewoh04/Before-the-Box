@@ -1,7 +1,7 @@
 ---
 title: "Homemade Vanilla Frosting"
 slug: "vanilla-frosting"
-category: "Desserts"
+category: "Sweet Treats"
 prepTime: "10 minutes"
 ingredients: ["Butter", "Powdered sugar", "Milk", "Vanilla"]
 featuredImage: "/images/vanilla-frosting.jpg"
