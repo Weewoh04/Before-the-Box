@@ -48,6 +48,10 @@ function ParagraphText({ content, keyPrefix }) {
   return null;
 }
 
+function getTocTitle(title) {
+  return title.replace(/^\s*\d+(?:\.\d+)?[.):-]\s*/, '');
+}
+
 export default async function BlogPostPage({ params }) {
   const { slug } = await params;
   const post = getBlogPostBySlug(slug);
@@ -78,7 +82,7 @@ export default async function BlogPostPage({ params }) {
           <h2>Table of contents</h2>
           <ol>
             {post.sections.map((section) => (
-              <li key={section.id}><a href={`#${section.id}`}>{section.title}</a></li>
+              <li key={section.id}><a href={`#${section.id}`}>{getTocTitle(section.title)}</a></li>
             ))}
           </ol>
         </section>
