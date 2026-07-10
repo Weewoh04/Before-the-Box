@@ -30,6 +30,24 @@ function LinkedItem({ item }) {
   return <span>{item.text}</span>;
 }
 
+function ParagraphText({ content, keyPrefix }) {
+  if (typeof content === 'string') {
+    return <p key={keyPrefix}>{content}</p>;
+  }
+
+  if (content && typeof content === 'object' && content.href) {
+    return (
+      <p key={keyPrefix}>
+        <a href={content.href} target="_blank" rel="noreferrer">
+          {content.text}
+        </a>
+      </p>
+    );
+  }
+
+  return null;
+}
+
 export default async function BlogPostPage({ params }) {
   const { slug } = await params;
   const post = getBlogPostBySlug(slug);
@@ -68,12 +86,16 @@ export default async function BlogPostPage({ params }) {
         <NativeBanner />
 
         <article className="recipe-box article-body">
-          {post.intro.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+          {post.intro.map((paragraph, index) => (
+            <ParagraphText key={`${post.slug}-intro-${index}`} content={paragraph} />
+          ))}
 
           {post.sections.map((section) => (
             <section id={section.id} key={section.id}>
               <h2>{section.title}</h2>
-              {section.paragraphs?.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+              {section.paragraphs?.map((paragraph, index) => (
+                <ParagraphText key={`${section.id}-paragraph-${index}`} content={paragraph} />
+              ))}
               {section.items && (
                 <ul>
                   {section.items.map((entry) => (
@@ -84,7 +106,9 @@ export default async function BlogPostPage({ params }) {
             </section>
           ))}
 
-          {post.outro.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+          {post.outro.map((paragraph, index) => (
+            <ParagraphText key={`${post.slug}-outro-${index}`} content={paragraph} />
+          ))}
         </article>
       </main>
       <footer className="footer">Copyright {new Date().getFullYear()} Before the Box - Make the thing. Skip the label.</footer>
